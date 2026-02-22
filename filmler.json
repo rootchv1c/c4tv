@@ -1,0 +1,2947 @@
+[
+    {
+        "baslik": "TRT 1",
+        "link": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ATV",
+        "link": "https://trkvz-live.daioncdn.net/atv/atv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "STAR TV",
+        "link": "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SHOW TV",
+        "link": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL D",
+        "link": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 7",
+        "link": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NOW TV",
+        "link": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "360 TV",
+        "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV4",
+        "link": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TEVE 2",
+        "link": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 8",
+        "link": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 8.5",
+        "link": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BEYAZ TV",
+        "link": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT BELGESEL",
+        "link": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TLC",
+        "link": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DMAX TV",
+        "link": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NTV",
+        "link": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT HABER",
+        "link": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HABERGLOBAL",
+        "link": "http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HABERTÜRK",
+        "link": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TGRT HABER",
+        "link": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A HABER",
+        "link": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "AKiT TV",
+        "link": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ÜLKE TV",
+        "link": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV100",
+        "link": "https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HALK TV",
+        "link": "https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TELE1",
+        "link": "https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TVNET",
+        "link": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "24 TV",
+        "link": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A PARA",
+        "link": "https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BENGÜ TÜRK",
+        "link": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EKOL TV",
+        "link": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV5",
+        "link": "https://tv5-live.ercdn.net/tv5/tv5.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FLASH HABER",
+        "link": "https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TH TURK HABER TV",
+        "link": "https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HABER 61",
+        "link": "http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A2",
+        "link": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EURO D",
+        "link": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SHOW TÜRK",
+        "link": "https://canlitvulusal.xyz/live/showturk/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SHOW MAX",
+        "link": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 7 AVRUPA",
+        "link": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT 2",
+        "link": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT TÜRK",
+        "link": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT AVAZ",
+        "link": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT MÜZiK",
+        "link": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KRAL POP TV FHD",
+        "link": "http://dygvideo.dygdigital.com/live/hls/kralpop",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KRAL POP TV",
+        "link": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TATLISES TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DREAM TURK",
+        "link": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NR 1 TURK",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER LOVE",
+        "link": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NR 1 DAMAR",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NR 1 TV",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER TURK",
+        "link": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER TURK SLOW",
+        "link": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER TV AKUSTiK",
+        "link": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER TURK TAPTAZE",
+        "link": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER DANCE",
+        "link": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "POWER TV",
+        "link": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SLOW KARADENIZ TV",
+        "link": "https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ASPOR",
+        "link": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HT SPOR",
+        "link": "https://ciner-live.ercdn.net/htspor/htspor.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT SPOR",
+        "link": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT SPOR YILDIZ",
+        "link": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GS TV",
+        "link": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FB TV",
+        "link": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SPORTS TV",
+        "link": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MELTEM TV",
+        "link": "https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GZT TV",
+        "link": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TYT TÜRK",
+        "link": "https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TGRT EU",
+        "link": "https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TGRT BELGESEL",
+        "link": "https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ONS TV",
+        "link": "https://cdn-onstv.yayin.com.tr/onstv/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CİNE 1",
+        "link": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CİNE 5",
+        "link": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CİNE 6",
+        "link": "https://canli.cine6tv.com.tr:3614/stream/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CİNEMAX 6",
+        "link": "https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TiViTURK",
+        "link": "https://stream.tiviturk.de/live/tiviturk.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DENiZ POSTASI TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İSVİÇRE TV",
+        "link": "https://i41.ozelip.com:3269/hybrid/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DİZİ TV",
+        "link": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SUPERTURK TV",
+        "link": "http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SUPERTURK MAX",
+        "link": "http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ViYANA TV",
+        "link": "http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DOST TV",
+        "link": "https://dost.stream.emsal.im/tv/live.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DiYANET TV",
+        "link": "http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GONCA TV",
+        "link": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "LALEGUL TV",
+        "link": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SEMERKAND TV",
+        "link": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SEMERKAND TV WAY",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "REHBER TV",
+        "link": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KUDUS TV",
+        "link": "https://yayin30.haber100.com/live/kudustv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL ON 4 TV",
+        "link": "https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "AL ZAHRA TURK TV",
+        "link": "https://live.al-zahratv.com/live/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HADİ TV",
+        "link": "https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İLK TV",
+        "link": "https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MC TV",
+        "link": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MUKABELE TV",
+        "link": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Al QURAN KAREEM - KABE CANLI",
+        "link": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT COCUK",
+        "link": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT DİYANET ÇOCUK",
+        "link": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BRT 2 KIBRIS",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MİNİKA GO",
+        "link": "https://trkvz-live.daioncdn.net/minikago/minikago.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MİNİKA ÇOÇUK",
+        "link": "https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CARTOONNETWORK BLUTV",
+        "link": "https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TÜRKMENELİ TV",
+        "link": "https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BRT 1 KIBRIS",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KIBRIS ADA",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist_w2073141101.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KTV  KIBRIS",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KUZEY KIBRIS",
+        "link": "https://kuzeykibris.tv/m3u8/kktv.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KIBRIS GENÇ TV",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/chunklist_w248136165.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL T",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SİM TV",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklis.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 2020",
+        "link": "https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "AGRO TV",
+        "link": "https://yayin30.haber100.com/live/agrotv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "AKSU TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ANADOLUNET TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ANGARA TV",
+        "link": "https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ARAS TV",
+        "link": "https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BİR TV",
+        "link": "https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BODRUM KENT TV",
+        "link": "https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BRTV",
+        "link": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BURSA LiNE TV",
+        "link": "https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BURSA ON6 TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CAY TV",
+        "link": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ÇİFTÇİ TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DEHA TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DERiN TV",
+        "link": "https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DİM TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EDİRNE TV",
+        "link": "https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EDESSA TV",
+        "link": "https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EDiRNE TV",
+        "link": "https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ERCİYES TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ERCiS TV",
+        "link": "https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ER TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ES TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ETV KAYSERi",
+        "link": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ETV MANiSA",
+        "link": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FRT TV",
+        "link": "https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FORTUNA TV",
+        "link": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GRT GAZİANTEP TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GUNEYDOGU TV",
+        "link": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GURBET 24 TV",
+        "link": "http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HUNAT TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "iCEL TV",
+        "link": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İZMİR TIME 35 TV",
+        "link": "https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İKRA TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KARDELEN TV",
+        "link": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 3",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 12",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 13",
+        "link": "https://medya.kesintisizyayin.com:3423/stream/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 15",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 19",
+        "link": "https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 23",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 26",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 28",
+        "link": "https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 32",
+        "link": "https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 33",
+        "link": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 34",
+        "link": "https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 53",
+        "link": "https://kanal53.ozelip.com:3448/hybrid/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 56",
+        "link": "https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 58",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL 68",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL ADA",
+        "link": "http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL AVRUPA",
+        "link": "https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL B",
+        "link": "https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL S",
+        "link": "https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL V",
+        "link": "https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL Z",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL PLUS",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL URFA",
+        "link": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KANAL FIRAT",
+        "link": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KAY TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KOCAELİ TV",
+        "link": "https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KTV KONYA",
+        "link": "https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "LİFE TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MAVi KARADENiZ TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MERCAN TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "METROPOL TV",
+        "link": "https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "MUGLA TÜRK TV",
+        "link": "https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NORA TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "OLAY TURK",
+        "link": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SUN TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TARIM TV",
+        "link": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TEMPO TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TiVi 6",
+        "link": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TOKAT WEB TV",
+        "link": "https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TON TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRAKYA TÜRK TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TÜRK KLİNİKLERİ TV",
+        "link": "http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 25",
+        "link": "https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 41",
+        "link": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 48",
+        "link": "https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 52",
+        "link": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV 264",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV A",
+        "link": "https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "UR FANATiK TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TOKAT TV",
+        "link": "https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "URFA HABER TV",
+        "link": "https://ruhatv.ozelip.com:3483/stream/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "VAN GOLU TV",
+        "link": "https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "VRT",
+        "link": "https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "VTV TÜRK",
+        "link": "https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "VUSLAT TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "WOMAN TV",
+        "link": "https://s01.webcaster.cloud/wmtv/live_1080p.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "WORLDTÜRK",
+        "link": "https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "RIZE TURK HD",
+        "link": "https://yayin.rizeturk.com:3777/hybrid/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "PAZARCIK TV",
+        "link": "https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ORDU BEL TV",
+        "link": "https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "YOZGAT BLD TV",
+        "link": "https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FiNEST TV",
+        "link": "http://media.finest.tv/hls/live.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DAMAR TV",
+        "link": "https://tvsms.club/tv.php?kanal=damar&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ARABESK TV",
+        "link": "https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SILA TV",
+        "link": "https://tvsms.club/tv.php?kanal=silatv&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ZEYNO TV",
+        "link": "https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DOST TV",
+        "link": "https://tvsms.club/tvz.php?kanal=dost&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EZO TV",
+        "link": "https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TOP POP TV",
+        "link": "https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A VİVA TV",
+        "link": "https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ARMA TV",
+        "link": "https://tvsms.club/tvz.php?kanal=arma&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GENC SMS TV",
+        "link": "https://tvsms.club/tv.php?kanal=genctv&file=.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT WORLD",
+        "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT KURDi",
+        "link": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT ARABi",
+        "link": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "SAGLIK CHANEL",
+        "link": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "5 OCAK TV",
+        "link": "https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ALANYA ATV",
+        "link": "https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TAŞ TV",
+        "link": "http://palatv34.ozelip.com:22372/tastv/tastv/chunklist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "HÜR TV",
+        "link": "https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "AYZ",
+        "link": "http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BELEMTÜRK",
+        "link": "https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BRÜKSEL TÜRK",
+        "link": "https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT1",
+        "link": "http://89.187.191.41/TRT-1-HD-TR/video.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png"
+    },
+    {
+        "baslik": "KANAL D",
+        "link": "http://89.187.191.41/Kanal-D-HD-TR/video.m3u8",
+        "resim": "https://i.ibb.co/hf2mSz5/kanal-d.png"
+    },
+    {
+        "baslik": "ATV",
+        "link": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+        "resim": "https://i.ibb.co/DwFJ0vn/atv.png"
+    },
+    {
+        "baslik": "STAR TV",
+        "link": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
+        "resim": "https://i.ibb.co/hY3Z8zx/star-tv.png"
+    },
+    {
+        "baslik": "SHOW TV",
+        "link": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png"
+    },
+    {
+        "baslik": "NOW",
+        "link": "http://66.160.192.241/foxturk/index.m3u8",
+        "resim": "https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png"
+    },
+    {
+        "baslik": "BEYAZ TV",
+        "link": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
+        "resim": "https://tvprofil.com/img/kanali-logo/Beyaz_TV_TR_logo_v2.png?1734094253"
+    },
+    {
+        "baslik": "TV 8",
+        "link": "http://89.187.191.41/TV8-HD-TR/video.m3u8",
+        "resim": "https://i.ibb.co/Kr5SFY1/tv8.png"
+    },
+    {
+        "baslik": "KANAL 7",
+        "link": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kanal_7_2002-%3F_logosu.webp/300px-Kanal_7_2002-%3F_logosu.webp.png"
+    },
+    {
+        "baslik": "TEVE 2",
+        "link": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
+        "resim": "https://i.ibb.co/JRpJc2P/teve2.png"
+    },
+    {
+        "baslik": "360 TV",
+        "link": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+        "resim": "https://i.ibb.co/s3gJCGL/360.png"
+    },
+    {
+        "baslik": "NTV",
+        "link": "https://canlitvulusal.xyz/live/ntv/index.m3u8",
+        "resim": "https://i.ibb.co/gRR1zpm/ntv.png"
+    },
+    {
+        "baslik": "HABER TURK",
+        "link": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png"
+    },
+    {
+        "baslik": "CNN TURK",
+        "link": "https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8",
+        "resim": "https://i.ibb.co/bFsmkwJ/cnn-turk.png"
+    },
+    {
+        "baslik": "TRT HABER",
+        "link": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://logowik.com/content/uploads/images/trt-haber5539.jpg"
+    },
+    {
+        "baslik": "24 TV",
+        "link": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
+        "resim": "https://i.ibb.co/tHQpWvn/24.png"
+    },
+    {
+        "baslik": "TV NET",
+        "link": "https://trn03.tulix.tv/gt-tvnet/index.m3u8",
+        "resim": "https://wa-piri-tvnet-v2.azurewebsites.net/dist/img/index-image.jpg"
+    },
+    {
+        "baslik": "TGRT HABER",
+        "link": "https://canli.tgrthaber.com/tgrt.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png"
+    },
+    {
+        "baslik": "TRT 4K",
+        "link": "http://176.65.146.123:6001/play/a027/index.m3u8",
+        "resim": "https://icdn.ensonhaber.com/crop/1060x795/resimler/diger/kok/2021/06/16/IMG20210616050051.jpg"
+    },
+    {
+        "baslik": "TABII TV",
+        "link": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png"
+    },
+    {
+        "baslik": "SINEMA 1001",
+        "link": "https://tv1.arectv30.sbs/live/sinema1001.m3u8",
+        "resim": "https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg"
+    },
+    {
+        "baslik": "SINEMA AKSIYON 2",
+        "link": "https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8",
+        "resim": "https://www.lyngsat.com/logo/tv/ss/sinema-aksiyon-tr.png"
+    },
+    {
+        "baslik": "SINEMA KOMEDI",
+        "link": "https://tv1.arectv30.sbs/live/sinemakomedi.m3u8",
+        "resim": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png"
+    },
+    {
+        "baslik": "BEIN BOX OFFICE 1",
+        "link": "https://tv.prectv5.sbs/live/bspremier1.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722"
+    },
+    {
+        "baslik": "BEIN BOX OFFICE 2",
+        "link": "https://tv.prectv5.sbs/live/bsstars.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722"
+    },
+    {
+        "baslik": "BEIN BOX OFFICE 3",
+        "link": "https://tv.prectv5.sbs/live/box3.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722"
+    },
+    {
+        "baslik": "TRT COCUK",
+        "link": "https://trn03.tulix.tv/gt-trtcocuk/index.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png"
+    },
+    {
+        "baslik": "A2",
+        "link": "http://89.187.191.41/A2-HD-TR/video.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg"
+    },
+    {
+        "baslik": "TRT BELGESEL",
+        "link": "https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8",
+        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU"
+    },
+    {
+        "baslik": "DMAX",
+        "link": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg"
+    },
+    {
+        "baslik": "TLC",
+        "link": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg"
+    },
+    {
+        "baslik": "NAT GEO WILD",
+        "link": "http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481294&extension=ts&play_token=iIClKojl2I",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
+    },
+    {
+        "baslik": "TRT SPOR",
+        "link": "http://176.65.146.123:6001/play/a01k/index.m3u8",
+        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&usqp=CAU"
+    },
+    {
+        "baslik": "TV 8.5",
+        "link": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png"
+    },
+    {
+        "baslik": "A SPOR",
+        "link": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/tr/archive/e/e9/20140920094552%21A_Spor_logosu.png"
+    },
+    {
+        "baslik": "TRT SPOR YILDIZ",
+        "link": "http://176.65.146.123:6001/play/a02g/index.m3u8",
+        "resim": "https://tv.kolaytv.org/trt-spor-yildiz.png"
+    },
+    {
+        "baslik": "SSPORT",
+        "link": "https://217.30.11.74/e/3030.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png"
+    },
+    {
+        "baslik": "SSPORT 2",
+        "link": "https://217.30.11.74/e/3031.m3u8",
+        "resim": "https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png"
+    },
+    {
+        "baslik": "BEINSPORTS 1",
+        "link": "http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158",
+        "resim": "https://i.ibb.co/N31fVBp/bein-sports-1.png"
+    },
+    {
+        "baslik": "BEINSPORTS 1",
+        "link": "http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8",
+        "resim": "https://i.ibb.co/N31fVBp/bein-sports-1.png"
+    },
+    {
+        "baslik": "BEINSPORTS 1 (Mac zamanı)",
+        "link": "http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8",
+        "resim": "https://i.ibb.co/N31fVBp/bein-sports-1.png"
+    },
+    {
+        "baslik": "Tv8",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8-canliizle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Fox Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/foxtvcanlihd-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal 7",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-7-canli-yayin-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Now TV",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/nowtvcanli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ATV",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atvcanli-yayin",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT 1",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trt1-canli-hd-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal D",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanald-canli-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Star Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/startvcanli-yayin",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Show Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/showtv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Beyaz Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beyaz-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Flash Haber",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/flash-haber-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Spor",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtsporcanli-hd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A Spor",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/aspor-canli-hd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bein Sports Haber",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beinsports-haber",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TJK Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tjktvcanli-yayin",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Spor Yıldız",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtsporyildiz-canlii",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Sözcü Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sozcu-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Haber",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trthaber-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NTV",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ntvcanli-hd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Halk Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/halk-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A Haber",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a-haber-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Habertürk Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/haberturk-canli-hd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CNN Türk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cnnturk-canli-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Haber Global",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/haber-global",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tele1",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tele1-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal 24",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-24-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TGRT Haber",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrthaber-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV100",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv100",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Ulusal Kanal",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulusal-kanal",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bloomberg HT",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bloomberg-ht-canli-hd-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EkoTürk Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ekoturk-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "KRT Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/krt-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Meclis Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/meclis-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Şaban Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/saban-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Teve2",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/teve2-canli-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "5",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv85canli-hd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tv 360",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv-360",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tv8 İnt",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8intcanli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A2 Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a2-tv-canli-kesintisiz",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Euro Star",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eurostar-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Euro D",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eurod-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ATV Avrupa",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atv-avrupa-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "D Max",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/d-max-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TLC Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tlctv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CBC Sport",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cbcsportcanli-hd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İdman Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/idmantvcanli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İctimai Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ictimai-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Cartoon Network",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cartoon-network",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Minika Çocuk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/minika-cocuk-16",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Minika Go",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/minika-go-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Çocuk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtcocuk-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "GS Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/gs-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FB Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/fb-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Belgesel",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtbelgesel-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Sports Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sports-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Cem Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cem-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV42",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv42",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bengütürk Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/benguturk-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Akıllı Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/akilli-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Milli Piyango TV",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/milli-piyango-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "İbb Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ibb-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Eba Tv İlkokul",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-ilkokul",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Eba Tv Ortaokul",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-ortaokul",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Eba Tv Lise",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-lise",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Meltem Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/meltem-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Disney Channel",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/disneychannelcanli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TGRT EU",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrt-eu",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TGRT Belgesel",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrt-belgesel",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kon Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kon-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Ülke Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulke-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Olay Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/olay-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Ses Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ses-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Az Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/az-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kral Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kral-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kral Pop Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kral-pop-tv-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Vatan Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/vatan-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Müzik",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtmuzik-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Dream Türk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dreamturk-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bizimev Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bizimev-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "A Para",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a-para-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Power Türk Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/power-turk-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Köy Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/koy-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Number One Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/number-one-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Power Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/power-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Xezer Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/xezer-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tek Rumeli Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tek-rumeli-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Number One Türk Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/number-one-turk-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Yaban Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/yaban-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Slow Karadeniz Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/slow-karadeniz-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Semerkand Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/semerkand-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Planet Türk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/planet-turk",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Show Türk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/show-turk-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Edirne Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/edirne-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Fil Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/fil-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Beşiktaş Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/besiktas-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Planet Çocuk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/planet-cocuk",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Arapça",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtarapca-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bursaspor Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bursaspor-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tivibu Spor",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tivibusporcanli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tay TV",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tjktvcanli-yayin",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Türkmen Sport",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/turkmen-sport",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Rüdaw Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/rudaw-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Kürdi",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtkurdi-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ATV Azad Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atv-azad-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal B",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-b-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Türk",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtturk-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TVNET",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tvnet",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Dost Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dost-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tv4",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv4",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT World",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtworldcanli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT Avaz",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtavaz-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Diyanet Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/diyanet-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Uçankuş Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ucankus-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kocaeli Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kocaeli-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Show Max",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/show-max-canli",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Space Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/space-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Akit Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/akit-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Medine Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/medine-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Ekin Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ekin-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TvEM",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tvem",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Damla Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/damla-tv-hd-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Halk Tv Euro",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/halk-tv-euro-3",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Av Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/av-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Hilal Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/hilal-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "FRM Tv HD",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/frm-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Muz Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/muz-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal V",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-v",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Sony Mutfak",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sony-mutfak",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kidz Animez",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kidz-animez",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Medeniyet Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/medeniyet-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kaçkar Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kackar-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Düğün Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dugun-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bursa Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bursa-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Sony Channel Türkiye",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sony-channel-turkiye",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Lider Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/lider-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Milyon Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/milyon-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT 2",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trt2canlihd",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Gaziantep Olay Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/gaziantep-olay-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "1 TV Georgia",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/1-tv-georgia",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal 26",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal26",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal 3",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-3",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Kanal 68",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-68",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Lalegül TV",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/lalegul-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Yat Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/yat-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bereket Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bereket-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Bereket Hayvancılık Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bereket-hayvancilik-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Roman Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/roman-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TV1",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv1-izle",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Tv52",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv-52",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BRT Tv",
+        "link": "https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/karabuk-brt-tv",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NPO 1",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NPO 2",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "NPO ZAPPELEN",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "RTL 4",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "Z SELECT",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EUROSPORT 1",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "ESPN",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "EEURONEWS",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "CNBC",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "BBCNEWS",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "DW HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT WORLD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT 1",
+        "link": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/thr6mVk/trt-1.png"
+    },
+    {
+        "baslik": "KANAL D",
+        "link": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3",
+        "resim": "https://i.ibb.co/hf2mSz5/kanal-d.png"
+    },
+    {
+        "baslik": "KANAL D",
+        "link": "http://89.187.191.41/Kanal-D-HD-TR/video.m3u8",
+        "resim": "https://i.ibb.co/hf2mSz5/kanal-d.png"
+    },
+    {
+        "baslik": "ATV",
+        "link": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+        "resim": "https://i.ibb.co/DwFJ0vn/atv.png"
+    },
+    {
+        "baslik": "STAR TV",
+        "link": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
+        "resim": "https://i.ibb.co/hY3Z8zx/star-tv.png"
+    },
+    {
+        "baslik": "SHOW TV",
+        "link": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
+        "resim": "https://i.ibb.co/Rv0rWhZ/show.png"
+    },
+    {
+        "baslik": "NOW",
+        "link": "https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/QvTPfhs/now.png"
+    },
+    {
+        "baslik": "CNBC-E",
+        "link": "https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8",
+        "resim": "https://i.ibb.co/5FjLh2Z/cnbc-e.png"
+    },
+    {
+        "baslik": "TV 8",
+        "link": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
+        "resim": "https://i.ibb.co/Kr5SFY1/tv8.png"
+    },
+    {
+        "baslik": "EURO D",
+        "link": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8",
+        "resim": "https://i.ibb.co/jMQTJmh/euro-d.png"
+    },
+    {
+        "baslik": "ATV AVRUPA",
+        "link": "https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/Mg8kV1j/atv-avrupa.png"
+    },
+    {
+        "baslik": "SHOW TURK",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/rtCJSqm/show-turk.png"
+    },
+    {
+        "baslik": "EUROSTAR",
+        "link": "https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8",
+        "resim": "https://i.ibb.co/CbdPSX6/euro-star.png"
+    },
+    {
+        "baslik": "TV 8 INT",
+        "link": "https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/ykSLX8Q/tv8-int.png"
+    },
+    {
+        "baslik": "TRT 2",
+        "link": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/0JcxnSL/trt-2.png"
+    },
+    {
+        "baslik": "SHOW MAX",
+        "link": "https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8",
+        "resim": "https://i.ibb.co/qJnvXJQ/show-max.png"
+    },
+    {
+        "baslik": "TRT TURK",
+        "link": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/zN1BK38/trt-turk.png"
+    },
+    {
+        "baslik": "TRT COCUK",
+        "link": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/mbvwYMB/trt-cocuk.png"
+    },
+    {
+        "baslik": "KANAL 7",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/dcC9pzY/kanal-7.png"
+    },
+    {
+        "baslik": "KANAL 7 AVRUPA",
+        "link": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8",
+        "resim": "https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png"
+    },
+    {
+        "baslik": "BEYAZ TV",
+        "link": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8",
+        "resim": "https://i.ibb.co/1mftzTP/beyaz-tv.png"
+    },
+    {
+        "baslik": "TEVE 2",
+        "link": "https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8",
+        "resim": "https://i.ibb.co/JRpJc2P/teve2.png"
+    },
+    {
+        "baslik": "A2",
+        "link": "https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/7WTsG83/a2.png"
+    },
+    {
+        "baslik": "360",
+        "link": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+        "resim": "https://i.ibb.co/s3gJCGL/360.png"
+    },
+    {
+        "baslik": "TV 4",
+        "link": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
+        "resim": "https://i.postimg.cc/FKkHW8KK/tv4.png"
+    },
+    {
+        "baslik": "WOMAN TV",
+        "link": "https://s01.webcaster.cloud/wmtv/live_1080p.m3u8",
+        "resim": "https://i.ibb.co/bHTjDyk/woman-tv.png"
+    },
+    {
+        "baslik": "TGRT EU",
+        "link": "https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/kMM9hwR/tgrt-eu.png"
+    },
+    {
+        "baslik": "TIVI 6",
+        "link": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+        "resim": "https://i.ibb.co/9H3DMWz/tivi6.png"
+    },
+    {
+        "baslik": "BIR TV",
+        "link": "https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8",
+        "resim": "https://i.ibb.co/dDdPMWq/birtv.png"
+    },
+    {
+        "baslik": "CINE5 TV",
+        "link": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8",
+        "resim": "https://i.ibb.co/7vNbSyP/cine5.png"
+    },
+    {
+        "baslik": "CINE1",
+        "link": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
+        "resim": "https://i.ibb.co/zhxTBMR/cine1.png"
+    },
+    {
+        "baslik": "LIFE TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
+        "resim": "https://i.ibb.co/9hCVNks/life-tv.png"
+    },
+    {
+        "baslik": "TRT SPOR",
+        "link": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/WxD4PLG/trt-spor.png"
+    },
+    {
+        "baslik": "beIN SPORTS HABER",
+        "link": "https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/GdkQ5mY/bein-sports-haber.png"
+    },
+    {
+        "baslik": "TV 8.5",
+        "link": "https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8",
+        "resim": "https://i.ibb.co/6PRYHdW/tv85.png"
+    },
+    {
+        "baslik": "A SPOR",
+        "link": "https://c.fulltvizle.com/aspor/index.m3u8",
+        "resim": "https://i.ibb.co/rwnrgFV/a-spor.png"
+    },
+    {
+        "baslik": "TRT SPOR YILDIZ",
+        "link": "https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png"
+    },
+    {
+        "baslik": "SPORTS TV",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/R3q43dk/sportstv.png"
+    },
+    {
+        "baslik": "FB TV",
+        "link": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+        "resim": "https://i.ibb.co/315SYpK/fb-tv.png"
+    },
+    {
+        "baslik": "GS TV HD",
+        "link": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8",
+        "resim": "https://i.ibb.co/6RqMpGT/gs-tv.png"
+    },
+    {
+        "baslik": "TJK TV",
+        "link": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8",
+        "resim": "https://i.ibb.co/PrkXrRn/tjk-tv.png"
+    },
+    {
+        "baslik": "TJK TV YURT DISI",
+        "link": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8",
+        "resim": "https://i.ibb.co/PrkXrRn/tjk-tv.png"
+    },
+    {
+        "baslik": "TRT BELGESEL",
+        "link": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/MkvY46q/trt-belgesel.png"
+    },
+    {
+        "baslik": "DMAX",
+        "link": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+        "resim": "https://i.ibb.co/1LH22gK/dmax.png"
+    },
+    {
+        "baslik": "TLC",
+        "link": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+        "resim": "https://i.ibb.co/Cm1nYZK/tlc.png"
+    },
+    {
+        "baslik": "TRT AVAZ",
+        "link": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/Mnhmxsn/trt-avaz.png"
+    },
+    {
+        "baslik": "TGRT BELGESEL",
+        "link": "https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/DkBWyDB/tgrt-belgesel.png"
+    },
+    {
+        "baslik": "TRT HABER",
+        "link": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/NCvRHC3/trt-haber.png"
+    },
+    {
+        "baslik": "CNN TURK",
+        "link": "https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8",
+        "resim": "https://i.ibb.co/bFsmkwJ/cnn-turk.png"
+    },
+    {
+        "baslik": "NTV",
+        "link": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8",
+        "resim": "https://i.ibb.co/gRR1zpm/ntv.png"
+    },
+    {
+        "baslik": "A HABER",
+        "link": "https://c.fulltvizle.com/ahaber/index.m3u8",
+        "resim": "https://i.ibb.co/Hhjcgm3/a-haber.png"
+    },
+    {
+        "baslik": "A PARA HD",
+        "link": "http://185.234.111.229:8000/play/a01l",
+        "resim": "https://i.ibb.co/FnT7ftQ/a-para.png"
+    },
+    {
+        "baslik": "HALK TV",
+        "link": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609",
+        "resim": "https://i.ibb.co/DYhmg6k/halk-tv.png"
+    },
+    {
+        "baslik": "SOZCU TV",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/6NX1j0n/szc-tv.png"
+    },
+    {
+        "baslik": "ULKE TV",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/zG9kTh6/ulke-tv.png"
+    },
+    {
+        "baslik": "HABER GLOBAL",
+        "link": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
+        "resim": "https://i.ibb.co/4ZpZWkf/haber-global.png"
+    },
+    {
+        "baslik": "BLOOMBERG HT",
+        "link": "https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8",
+        "resim": "https://i.ibb.co/PTNvZkD/bloomberg-ht.png"
+    },
+    {
+        "baslik": "HABERTURK",
+        "link": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
+        "resim": "https://i.ibb.co/5GmcTH9/haberturk.png"
+    },
+    {
+        "baslik": "24",
+        "link": "https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8",
+        "resim": "https://i.ibb.co/tHQpWvn/24.png"
+    },
+    {
+        "baslik": "ULUSAL TV",
+        "link": "https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8",
+        "resim": "https://i.ibb.co/vvZss13/ulusal-tv.png"
+    },
+    {
+        "baslik": "TV 100",
+        "link": "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web",
+        "resim": "https://i.ibb.co/zZnBCWt/tv100.png"
+    },
+    {
+        "baslik": "TELE 1",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/6yVTw6f/tele1.png"
+    },
+    {
+        "baslik": "KRT",
+        "link": "#EXTVLCOPT:http-user-agent=Lavf53.32.100",
+        "resim": "https://i.ibb.co/F8WT2QK/krt.png"
+    },
+    {
+        "baslik": "TVNET",
+        "link": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+        "resim": "https://i.ibb.co/2jtzN6F/tvnet.png"
+    },
+    {
+        "baslik": "EKOTURK",
+        "link": "https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8",
+        "resim": "https://i.ibb.co/F4csSTY/ekoturk.png"
+    },
+    {
+        "baslik": "AKIT TV",
+        "link": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+        "resim": "https://i.ibb.co/MBwzD2b/akit-tv.png"
+    },
+    {
+        "baslik": "BENGU TURK",
+        "link": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
+        "resim": "https://i.ibb.co/CHWhMvQ/bengu-turk.png"
+    },
+    {
+        "baslik": "TGRT HABER HD",
+        "link": "https://canli.tgrthaber.com/tgrt.m3u8",
+        "resim": "https://i.ibb.co/K5frjVY/tgrt-haber.png"
+    },
+    {
+        "baslik": "TURKHABER",
+        "link": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+        "resim": "https://i.ibb.co/ySv65wg/turk-haber.png"
+    },
+    {
+        "baslik": "FLASH HABER",
+        "link": "https://ythls.kekikakademi.org/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8",
+        "resim": "https://i.ibb.co/8cP5NzX/flash-haber.png"
+    },
+    {
+        "baslik": "NR1",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
+        "resim": "https://i.ibb.co/sybLTBG/nr1.png"
+    },
+    {
+        "baslik": "MILYON TV",
+        "link": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
+        "resim": "https://i.ibb.co/sQRhqCs/milyon-tv.png"
+    },
+    {
+        "baslik": "KRAL POP",
+        "link": "http://dygvideo.dygdigital.com/live/hls/kralpop",
+        "resim": "https://i.ibb.co/vk0bKz0/kral-pop.png"
+    },
+    {
+        "baslik": "TATLISES TV",
+        "link": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8",
+        "resim": "https://i.ibb.co/yRy9zwt/tatlises-tv.png"
+    },
+    {
+        "baslik": "NR1 ASK",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+        "resim": "https://i.ibb.co/5cJ0KtQ/nr1-ask.png"
+    },
+    {
+        "baslik": "NR1 DAMAR",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+        "resim": "https://i.ibb.co/2yCF7ms/nr1-damar.png"
+    },
+    {
+        "baslik": "NR1 DANCE",
+        "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+        "resim": "https://i.ibb.co/kXFSFTN/nr1-dance.png"
+    },
+    {
+        "baslik": "NR1 FASHION ONE",
+        "link": "http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8",
+        "resim": "https://i.ibb.co/HV0x9JZ/fashion-one.png"
+    },
+    {
+        "baslik": "TRT MUZIK",
+        "link": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+        "resim": "https://i.ibb.co/4gbPpzC/trt-muzik.png"
+    },
+    {
+        "baslik": "DREAM TURK",
+        "link": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+        "resim": "https://i.ibb.co/fxRrKmB/dream-turk.png"
+    },
+    {
+        "baslik": "POWER TURK",
+        "link": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8",
+        "resim": "https://i.ibb.co/xXcBD2C/powerturk.png"
+    },
+    {
+        "baslik": "POWER TV",
+        "link": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8",
+        "resim": "https://i.ibb.co/JrXDQJy/power-tv.png"
+    },
+    {
+        "baslik": "POWER TURK TAPTAZE",
+        "link": "http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+        "resim": "https://i.ibb.co/F5K5xs9/powerturk-taptaze.png"
+    },
+    {
+        "baslik": "POWER DANCE",
+        "link": "https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8",
+        "resim": "https://i.ibb.co/5hwZ7xw/power-dance.png"
+    },
+    {
+        "baslik": "POWER LOVE",
+        "link": "https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8",
+        "resim": "https://i.ibb.co/bJL1VnX/power-love.png"
+    },
+    {
+        "baslik": "POWER TURK AKUSTIK",
+        "link": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8",
+        "resim": "https://i.ibb.co/XFY7dCW/powerturk-akustik.png"
+    },
+    {
+        "baslik": "POWER TURK SLOW",
+        "link": "https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8",
+        "resim": "https://i.ibb.co/R4pcKqK/powerturk-slow.png"
+    },
+    {
+        "baslik": "Zarok TV Kürtçe",
+        "link": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+        "resim": "http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg"
+    },
+    {
+        "baslik": "EROTiK",
+        "link": "#EXTINF:0,XXX: Penthouse Gold HD",
+        "resim": "http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg"
+    },
+    {
+        "baslik": "XXX: Penthouse Gold HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX| Penthouse Reality TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Babes TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: BangU",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Barely Legal",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Blue Hustler",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Brazzers TV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Dorcel TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Dorcel XXX TV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Erox HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Eroxxx HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Evil Angel HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Extasy",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Fantazzy TV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Hustler",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Hustler HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Playboy TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Private TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Pure Babes",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Reality Kings",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Redlight HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Vivid Red HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: Super One",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: XY plus",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: XY max",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "XXX: XY mix",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TRT 4K",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TRT1 HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TRT 1",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TRT2 HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TRT TURK HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TRT TURK",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: ATV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: ATV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: SHOW HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: SHOW TV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: SHOW Turk HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: STAR TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: STAR TV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: EUROSTAR SD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: Kanal D HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: KANAL D",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: EURO D HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: EURO D",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: NOW TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TV 8 HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TV 8 SD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TV 8 INT",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TV 8.5 HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: KANAL 7 HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TV8 5",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: KANAL 7",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: KANAL 7 AVRUPA",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: SHOW MAX HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: SHOW MAX",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TGRT EU",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TEVE2 HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: Teve 2",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TLC",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: A2 TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: A2",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: FX HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: 360 TV HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: BLOOMBERGHT HD",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: TV 100",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    },
+    {
+        "baslik": "TR: HALK TV",
+        "link": "#EXTVLCOPT:network-caching=1000",
+        "resim": "https://via.placeholder.com/200x300?text=TV"
+    }
+]

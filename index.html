@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CANO TV - Canlı Yayın</title>
+    <style>
+        body { background: #080808; color: #fff; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 10px; }
+        h1 { color: #e50914; text-shadow: 2px 2px 4px #000; margin-bottom: 20px; }
+        .grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
+            gap: 15px; 
+            padding: 10px; 
+        }
+        .kanal-kart { 
+            background: #141414; 
+            border-radius: 8px; 
+            padding: 10px; 
+            border: 1px solid #222;
+            transition: 0.3s;
+            cursor: pointer;
+        }
+        .kanal-kart:hover { 
+            transform: translateY(-5px); 
+            border-color: #e50914;
+            box-shadow: 0 5px 15px rgba(229, 9, 20, 0.4);
+        }
+        .kanal-kart img { 
+            width: 100%; 
+            height: 100px; 
+            object-fit: contain; 
+            background: #000;
+            border-radius: 4px;
+        }
+        .kanal-kart h3 { 
+            font-size: 13px; 
+            margin: 10px 0; 
+            height: 32px; 
+            overflow: hidden; 
+            color: #ddd;
+        }
+        .izle-btn { 
+            display: block; 
+            background: #e50914; 
+            color: #fff; 
+            text-decoration: none; 
+            padding: 6px; 
+            border-radius: 4px; 
+            font-weight: bold; 
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎬 CANO CANLI TV</h1>
+    <div class="grid" id="galeri">
+        </div>
+
+    <script>
+        // filmler.json dosyasını okuyoruz (artık içinde kanallar var)
+        fetch('filmler.json')
+            .then(res => res.json())
+            .then(data => {
+                const galeri = document.getElementById('galeri');
+                data.forEach(kanal => {
+                    galeri.innerHTML += `
+                        <div class="kanal-kart">
+                            <img src="${kanal.resim}" alt="Logo">
+                            <h3>${kanal.baslik}</h3>
+                            <a href="${kanal.link}" class="izle-btn" target="_blank">YAYINI AÇ</a>
+                        </div>
+                    `;
+                });
+            })
+            .catch(err => console.error("JSON okuma hatası:", err));
+    </script>
+</body>
+</html>
