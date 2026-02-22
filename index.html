@@ -3,77 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CANO TV - Canlı Yayın</title>
+    <title>CANO+ | Dizi, Film, Canlı TV</title>
+    <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
     <style>
-        body { background: #080808; color: #fff; font-family: 'Segoe UI', sans-serif; margin: 0; padding: 10px; }
-        h1 { color: #e50914; text-shadow: 2px 2px 4px #000; margin-bottom: 20px; }
-        .grid { 
-            display: grid; 
-            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); 
-            gap: 15px; 
-            padding: 10px; 
-        }
-        .kanal-kart { 
-            background: #141414; 
-            border-radius: 8px; 
-            padding: 10px; 
-            border: 1px solid #222;
-            transition: 0.3s;
-            cursor: pointer;
-        }
-        .kanal-kart:hover { 
-            transform: translateY(-5px); 
-            border-color: #e50914;
-            box-shadow: 0 5px 15px rgba(229, 9, 20, 0.4);
-        }
-        .kanal-kart img { 
-            width: 100%; 
-            height: 100px; 
-            object-fit: contain; 
-            background: #000;
-            border-radius: 4px;
-        }
-        .kanal-kart h3 { 
-            font-size: 13px; 
-            margin: 10px 0; 
-            height: 32px; 
-            overflow: hidden; 
-            color: #ddd;
-        }
-        .izle-btn { 
-            display: block; 
-            background: #e50914; 
-            color: #fff; 
-            text-decoration: none; 
-            padding: 6px; 
-            border-radius: 4px; 
-            font-weight: bold; 
-            font-size: 12px;
-        }
+        :root { --main: #e50914; --bg: #060606; --card-bg: #141414; }
+        body { background: var(--bg); color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; overflow-x: hidden; }
+        
+        /* Navbar */
+        nav { background: rgba(0,0,0,0.9); padding: 15px 5%; display: flex; align-items: center; position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid #222; }
+        .logo { color: var(--main); font-size: 28px; font-weight: 900; letter-spacing: -1px; margin-right: 30px; }
+        .search-box { flex: 1; position: relative; max-width: 400px; }
+        .search-box input { width: 100%; background: #222; border: 1px solid #444; color: #fff; padding: 10px 15px; border-radius: 20px; outline: none; }
+
+        /* Video Player */
+        .player-section { width: 100%; max-width: 1000px; margin: 20px auto; background: #000; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.8); }
+
+        /* Row Tasarımı */
+        .category-row { padding: 20px 5%; }
+        .category-title { font-size: 20px; font-weight: bold; margin-bottom: 15px; color: #e5e5e5; }
+        .scroller { display: flex; overflow-x: auto; gap: 15px; padding-bottom: 20px; scroll-behavior: smooth; }
+        .scroller::-webkit-scrollbar { height: 5px; }
+        .scroller::-webkit-scrollbar-thumb { background: var(--main); border-radius: 10px; }
+
+        /* Kart Tasarımı */
+        .card { min-width: 160px; max-width: 160px; background: var(--card-bg); border-radius: 6px; overflow: hidden; transition: 0.4s; cursor: pointer; position: relative; }
+        .card:hover { transform: scale(1.1); z-index: 10; box-shadow: 0 0 20px rgba(229,9,20,0.4); }
+        .card img { width: 100%; height: 230px; object-fit: cover; }
+        .card-info { padding: 10px; font-size: 13px; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .badge { position: absolute; top: 5px; right: 5px; background: var(--main); color: #fff; font-size: 10px; padding: 3px 6px; border-radius: 3px; }
     </style>
 </head>
 <body>
-    <h1>🎬 CANO CANLI TV</h1>
-    <div class="grid" id="galeri">
-        </div>
 
-    <script>
-        // filmler.json dosyasını okuyoruz (artık içinde kanallar var)
-        fetch('filmler.json')
-            .then(res => res.json())
-            .then(data => {
-                const galeri = document.getElementById('galeri');
-                data.forEach(kanal => {
-                    galeri.innerHTML += `
-                        <div class="kanal-kart">
-                            <img src="${kanal.resim}" alt="Logo">
-                            <h3>${kanal.baslik}</h3>
-                            <a href="${kanal.link}" class="izle-btn" target="_blank">YAYINI AÇ</a>
-                        </div>
-                    `;
-                });
-            })
-            .catch(err => console.error("JSON okuma hatası:", err));
-    </script>
+<nav>
+    <div class="logo">CANO+</div>
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Film, dizi veya kanal ara..." onkeyup="aramaYap()">
+    </div>
+</nav>
+
+<div class="player-section">
+    <video id="player" class="video-js vjs-big-play-centered vjs-16-9" controls preload="auto" width="100%"></video>
+</div>
+
+<div id="content-area">
+    </div>
+
+<script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+<script>
+    const player = videojs('player');
+
+    async function yukle() {
+        const res = await fetch('./filmler.json?v=' + Math.random());
+        const data = await res.json();
+        const area = document.getElementById('content-area');
+        
+        // Veriyi Kategorilere Ayır
+        const kategoriler = {
+            "Canlı TV 📺": data.filter(i => i.tip === 'kanal'),
+            "Filmler 🎬": data.filter(i => i.tip === 'film'),
+            "Diziler 🍿": data.filter(i => i.tip === 'dizi')
+        };
+
+        area.innerHTML = "";
+        for (let baslik in kategoriler) {
+            if (kategoriler[baslik].length === 0) continue;
+
+            let html = `
+                <div class="category-row">
+                    <div class="category-title">${baslik}</div>
+                    <div class="scroller" id="row-${baslik}">
+            `;
+
+            kategoriler[baslik].forEach(item => {
+                html += `
+                    <div class="card" onclick="oynat('${item.link}')">
+                        <span class="badge">${item.tip.toUpperCase()}</span>
+                        <img src="${item.resim}" onerror="this.src='https://via.placeholder.com/200x300?text=CANO+'">
+                        <div class="card-info">${item.baslik}</div>
+                    </div>
+                `;
+            });
+
+            html += `</div></div>`;
+            area.innerHTML += html;
+        }
+    }
+
+    function oynat(link) {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+        player.src({ type: 'application/x-mpegURL', src: link });
+        player.play();
+    }
+
+    function aramaYap() {
+        let text = document.getElementById('searchInput').value.toLowerCase();
+        let cards = document.getElementsByClassName('card');
+        for (let card of cards) {
+            card.style.display = card.innerText.toLowerCase().includes(text) ? "block" : "none";
+        }
+    }
+
+    window.onload = yukle;
+</script>
 </body>
 </html>
