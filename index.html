@@ -3,94 +3,120 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CANO PREMIUM</title>
+    <title>CANO FLIX</title>
     <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
     <style>
-        :root { --main: #e50914; --bg: #000; --nav: #141414; }
-        body { background: var(--bg); color: #fff; font-family: sans-serif; margin: 0; padding-top: 70px; }
+        :root { --main: #e50914; --bg: #000; --card-bg: #141414; }
+        body { background: var(--bg); color: #fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; overflow-x: hidden; }
         
-        /* Navbar & Menü */
-        nav { position: fixed; top: 0; width: 100%; height: 70px; background: var(--nav); display: flex; align-items: center; justify-content: space-between; padding: 0 5%; box-sizing: border-box; z-index: 9999; }
-        .logo { color: var(--main); font-size: 24px; font-weight: bold; }
-        .menu { display: flex; gap: 20px; }
-        .menu a { color: #fff; text-decoration: none; font-size: 14px; cursor: pointer; transition: 0.3s; }
-        .menu a:hover, .menu a.active { color: var(--main); }
+        /* Navbar */
+        nav { position: fixed; top: 0; width: 100%; height: 70px; background: linear-gradient(to bottom, rgba(0,0,0,0.9), transparent); display: flex; align-items: center; padding: 0 4%; box-sizing: border-box; z-index: 1000; transition: 0.5s; }
+        .logo { color: var(--main); font-size: 30px; font-weight: bold; margin-right: 25px; cursor: pointer; }
+        .search-box { background: rgba(0,0,0,0.5); border: 1px solid #fff; padding: 5px 10px; display: flex; align-items: center; border-radius: 4px; }
+        .search-box input { background: transparent; border: none; color: #fff; outline: none; width: 200px; }
 
-        /* Video Player */
-        .p-box { width: 95%; max-width: 1000px; margin: 10px auto; background: #111; border-radius: 8px; overflow: hidden; }
+        /* Hero Player Section */
+        .hero-player { width: 100%; height: 56.25vw; max-height: 80vh; background: #000; position: relative; margin-bottom: -50px; }
+        .video-js { width: 100%; height: 100%; }
 
-        /* Grid */
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 15px; padding: 20px; }
-        .card { background: #181818; border-radius: 5px; overflow: hidden; cursor: pointer; border: 1px solid #333; transition: 0.3s; }
-        .card:hover { transform: scale(1.05); border-color: var(--main); }
-        .card img { width: 100%; height: 180px; object-fit: cover; }
-        .card div { padding: 8px; font-size: 12px; text-align: center; height: 30px; overflow: hidden; }
+        /* Row Tasarımı (Netflix Style) */
+        .row { padding: 20px 0 20px 4%; }
+        .row-title { font-size: 1.4vw; font-weight: bold; margin-bottom: 10px; color: #e5e5e5; }
+        .row-posters { display: flex; overflow-x: scroll; overflow-y: hidden; padding: 20px 0; scroll-behavior: smooth; }
+        .row-posters::-webkit-scrollbar { display: none; }
+        
+        .poster { max-height: 250px; object-fit: contain; width: 100%; transition: transform 450ms; margin-right: 10px; cursor: pointer; border-radius: 4px; background: var(--card-bg); }
+        .poster:hover { transform: scale(1.08); opacity: 1; }
+        .poster-card { position: relative; min-width: 160px; }
+        .poster-title { font-size: 12px; text-align: center; margin-top: 5px; color: #808080; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-        /* Mobil Ayarlar */
-        @media (max-width: 600px) {
-            .menu { position: fixed; bottom: 0; left: 0; width: 100%; background: #141414; justify-content: space-around; padding: 15px 0; }
-            .grid { grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 10px; padding-bottom: 80px; }
-            .card img { height: 140px; }
-            nav { justify-content: center; }
+        @media (max-width: 768px) {
+            .row-title { font-size: 18px; }
+            .poster { max-height: 180px; min-width: 120px; }
+            nav { background: #000; height: 60px; }
         }
     </style>
 </head>
 <body>
 
-<nav>
-    <div class="logo">CANO+</div>
-    <div class="menu">
-        <a onclick="filtrele('hepsi')" class="active">Hepsi</a>
-        <a onclick="filtrele('kanal')">Canlı TV</a>
-        <a onclick="filtrele('film')">Filmler</a>
-        <a onclick="filtrele('dizi')">Diziler</a>
+<nav id="navbar">
+    <div class="logo">CANOFLIX</div>
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Film, dizi ara..." onkeyup="ara()">
     </div>
 </nav>
 
-<div class="p-box">
-    <video id="vid" class="video-js vjs-16-9 vjs-big-play-centered" controls preload="auto" width="100%"></video>
+<div class="hero-player">
+    <video id="main-player" class="video-js vjs-big-play-centered" controls preload="auto" poster="https://via.placeholder.com/1920x1080?text=CANO+FLIX"></video>
 </div>
 
-<div class="grid" id="main-grid"></div>
+<div id="content-rows">
+    </div>
 
 <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
 <script>
-    let tumVeri = [];
-    const player = videojs('vid');
+    const player = videojs('main-player');
+    let allData = [];
 
-    async function load() {
+    async function init() {
         const res = await fetch('./filmler.json');
-        tumVeri = await res.json();
-        filtrele('hepsi');
+        allData = await res.json();
+        
+        // Veriyi Kategorilere Grupla
+        const groups = allData.reduce((acc, item) => {
+            const cat = item.kategori || "Genel";
+            if (!acc[cat]) acc[cat] = [];
+            acc[cat].push(item);
+            return acc;
+        }, {});
+
+        const container = document.getElementById('content-rows');
+        
+        for (let catName in groups) {
+            let row = document.createElement('div');
+            row.className = 'row';
+            row.innerHTML = `<div class="row-title">${catName}</div>`;
+            
+            let posters = document.createElement('div');
+            posters.className = 'row-posters';
+            
+            // Performans için her kategoriden ilk 40 taneyi göster
+            groups[catName].slice(0, 40).forEach(item => {
+                posters.innerHTML += `
+                    <div class="poster-card" onclick="playVideo('${item.link}')">
+                        <img class="poster" src="${item.resim}" loading="lazy" onerror="this.src='https://via.placeholder.com/160x240?text=${item.tip}'">
+                        <div class="poster-title">${item.baslik}</div>
+                    </div>
+                `;
+            });
+            
+            row.appendChild(posters);
+            container.appendChild(row);
+        }
     }
 
-    function filtrele(tip) {
-        const grid = document.getElementById('main-grid');
-        grid.innerHTML = "";
-        
-        const süzülen = tip === 'hepsi' ? tumVeri : tumVeri.filter(i => i.tip === tip);
-        
-        süzülen.forEach(i => {
-            grid.innerHTML += `
-                <div class="card" onclick="play('${i.link}')">
-                    <img src="${i.resim}" onerror="this.src='https://via.placeholder.com/130x180?text=CANO'">
-                    <div>${i.baslik}</div>
-                </div>
-            `;
-        });
-
-        // Aktif menü rengi
-        document.querySelectorAll('.menu a').forEach(a => a.classList.remove('active'));
-        event.target.classList.add('active');
-    }
-
-    function play(l) {
-        window.scrollTo({top:0, behavior:'smooth'});
-        player.src({ type: 'application/x-mpegURL', src: l });
+    function playVideo(url) {
+        window.scrollTo({top: 0, behavior: 'smooth'});
+        player.src({ type: 'application/x-mpegURL', src: url });
         player.play();
     }
 
-    window.onload = load;
+    function ara() {
+        // Basit arama mantığı - tümünü süzmek yerine bir sonuç ekranı açılabilir
+        let val = document.getElementById('searchInput').value.toLowerCase();
+        if(val.length > 2) {
+            // Arama sonuçları için özel bir row açabiliriz
+            console.log("Aranıyor: " + val);
+        }
+    }
+
+    // Scroll efekti
+    window.addEventListener('scroll', () => {
+        if (window.scrollY > 100) document.getElementById('navbar').style.backgroundColor = '#000';
+        else document.getElementById('navbar').style.background = 'linear-gradient(to bottom, rgba(0,0,0,0.9), transparent)';
+    });
+
+    window.onload = init;
 </script>
 </body>
 </html>
