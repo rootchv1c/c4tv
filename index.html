@@ -3,108 +3,94 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CANO+ | Dizi, Film, Canlı TV</title>
+    <title>CANO PREMIUM</title>
     <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
     <style>
-        :root { --main: #e50914; --bg: #060606; --card-bg: #141414; }
-        body { background: var(--bg); color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; overflow-x: hidden; }
+        :root { --main: #e50914; --bg: #000; --nav: #141414; }
+        body { background: var(--bg); color: #fff; font-family: sans-serif; margin: 0; padding-top: 70px; }
         
-        /* Navbar */
-        nav { background: rgba(0,0,0,0.9); padding: 15px 5%; display: flex; align-items: center; position: sticky; top: 0; z-index: 1000; border-bottom: 1px solid #222; }
-        .logo { color: var(--main); font-size: 28px; font-weight: 900; letter-spacing: -1px; margin-right: 30px; }
-        .search-box { flex: 1; position: relative; max-width: 400px; }
-        .search-box input { width: 100%; background: #222; border: 1px solid #444; color: #fff; padding: 10px 15px; border-radius: 20px; outline: none; }
+        /* Navbar & Menü */
+        nav { position: fixed; top: 0; width: 100%; height: 70px; background: var(--nav); display: flex; align-items: center; justify-content: space-between; padding: 0 5%; box-sizing: border-box; z-index: 9999; }
+        .logo { color: var(--main); font-size: 24px; font-weight: bold; }
+        .menu { display: flex; gap: 20px; }
+        .menu a { color: #fff; text-decoration: none; font-size: 14px; cursor: pointer; transition: 0.3s; }
+        .menu a:hover, .menu a.active { color: var(--main); }
 
         /* Video Player */
-        .player-section { width: 100%; max-width: 1000px; margin: 20px auto; background: #000; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.8); }
+        .p-box { width: 95%; max-width: 1000px; margin: 10px auto; background: #111; border-radius: 8px; overflow: hidden; }
 
-        /* Row Tasarımı */
-        .category-row { padding: 20px 5%; }
-        .category-title { font-size: 20px; font-weight: bold; margin-bottom: 15px; color: #e5e5e5; }
-        .scroller { display: flex; overflow-x: auto; gap: 15px; padding-bottom: 20px; scroll-behavior: smooth; }
-        .scroller::-webkit-scrollbar { height: 5px; }
-        .scroller::-webkit-scrollbar-thumb { background: var(--main); border-radius: 10px; }
+        /* Grid */
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 15px; padding: 20px; }
+        .card { background: #181818; border-radius: 5px; overflow: hidden; cursor: pointer; border: 1px solid #333; transition: 0.3s; }
+        .card:hover { transform: scale(1.05); border-color: var(--main); }
+        .card img { width: 100%; height: 180px; object-fit: cover; }
+        .card div { padding: 8px; font-size: 12px; text-align: center; height: 30px; overflow: hidden; }
 
-        /* Kart Tasarımı */
-        .card { min-width: 160px; max-width: 160px; background: var(--card-bg); border-radius: 6px; overflow: hidden; transition: 0.4s; cursor: pointer; position: relative; }
-        .card:hover { transform: scale(1.1); z-index: 10; box-shadow: 0 0 20px rgba(229,9,20,0.4); }
-        .card img { width: 100%; height: 230px; object-fit: cover; }
-        .card-info { padding: 10px; font-size: 13px; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        .badge { position: absolute; top: 5px; right: 5px; background: var(--main); color: #fff; font-size: 10px; padding: 3px 6px; border-radius: 3px; }
+        /* Mobil Ayarlar */
+        @media (max-width: 600px) {
+            .menu { position: fixed; bottom: 0; left: 0; width: 100%; background: #141414; justify-content: space-around; padding: 15px 0; }
+            .grid { grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 10px; padding-bottom: 80px; }
+            .card img { height: 140px; }
+            nav { justify-content: center; }
+        }
     </style>
 </head>
 <body>
 
 <nav>
     <div class="logo">CANO+</div>
-    <div class="search-box">
-        <input type="text" id="searchInput" placeholder="Film, dizi veya kanal ara..." onkeyup="aramaYap()">
+    <div class="menu">
+        <a onclick="filtrele('hepsi')" class="active">Hepsi</a>
+        <a onclick="filtrele('kanal')">Canlı TV</a>
+        <a onclick="filtrele('film')">Filmler</a>
+        <a onclick="filtrele('dizi')">Diziler</a>
     </div>
 </nav>
 
-<div class="player-section">
-    <video id="player" class="video-js vjs-big-play-centered vjs-16-9" controls preload="auto" width="100%"></video>
+<div class="p-box">
+    <video id="vid" class="video-js vjs-16-9 vjs-big-play-centered" controls preload="auto" width="100%"></video>
 </div>
 
-<div id="content-area">
-    </div>
+<div class="grid" id="main-grid"></div>
 
 <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
 <script>
-    const player = videojs('player');
+    let tumVeri = [];
+    const player = videojs('vid');
 
-    async function yukle() {
-        const res = await fetch('./filmler.json?v=' + Math.random());
-        const data = await res.json();
-        const area = document.getElementById('content-area');
-        
-        // Veriyi Kategorilere Ayır
-        const kategoriler = {
-            "Canlı TV 📺": data.filter(i => i.tip === 'kanal'),
-            "Filmler 🎬": data.filter(i => i.tip === 'film'),
-            "Diziler 🍿": data.filter(i => i.tip === 'dizi')
-        };
-
-        area.innerHTML = "";
-        for (let baslik in kategoriler) {
-            if (kategoriler[baslik].length === 0) continue;
-
-            let html = `
-                <div class="category-row">
-                    <div class="category-title">${baslik}</div>
-                    <div class="scroller" id="row-${baslik}">
-            `;
-
-            kategoriler[baslik].forEach(item => {
-                html += `
-                    <div class="card" onclick="oynat('${item.link}')">
-                        <span class="badge">${item.tip.toUpperCase()}</span>
-                        <img src="${item.resim}" onerror="this.src='https://via.placeholder.com/200x300?text=CANO+'">
-                        <div class="card-info">${item.baslik}</div>
-                    </div>
-                `;
-            });
-
-            html += `</div></div>`;
-            area.innerHTML += html;
-        }
+    async function load() {
+        const res = await fetch('./filmler.json');
+        tumVeri = await res.json();
+        filtrele('hepsi');
     }
 
-    function oynat(link) {
-        window.scrollTo({top: 0, behavior: 'smooth'});
-        player.src({ type: 'application/x-mpegURL', src: link });
+    function filtrele(tip) {
+        const grid = document.getElementById('main-grid');
+        grid.innerHTML = "";
+        
+        const süzülen = tip === 'hepsi' ? tumVeri : tumVeri.filter(i => i.tip === tip);
+        
+        süzülen.forEach(i => {
+            grid.innerHTML += `
+                <div class="card" onclick="play('${i.link}')">
+                    <img src="${i.resim}" onerror="this.src='https://via.placeholder.com/130x180?text=CANO'">
+                    <div>${i.baslik}</div>
+                </div>
+            `;
+        });
+
+        // Aktif menü rengi
+        document.querySelectorAll('.menu a').forEach(a => a.classList.remove('active'));
+        event.target.classList.add('active');
+    }
+
+    function play(l) {
+        window.scrollTo({top:0, behavior:'smooth'});
+        player.src({ type: 'application/x-mpegURL', src: l });
         player.play();
     }
 
-    function aramaYap() {
-        let text = document.getElementById('searchInput').value.toLowerCase();
-        let cards = document.getElementsByClassName('card');
-        for (let card of cards) {
-            card.style.display = card.innerText.toLowerCase().includes(text) ? "block" : "none";
-        }
-    }
-
-    window.onload = yukle;
+    window.onload = load;
 </script>
 </body>
 </html>

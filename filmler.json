@@ -1,20 +1,8 @@
 [
     {
-        "baslik": "TRT1",
-        "link": "http://95.174.71.114/TR-TRT1/index.m3u8",
-        "resim": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "TV 8",
         "link": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8",
         "resim": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii",
-        "link": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8",
-        "resim": "https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg",
         "tip": "kanal"
     },
     {
@@ -30,21 +18,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "STAR TV",
-        "link": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8",
-        "resim": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "ATV",
         "link": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
         "resim": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TV",
-        "link": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8",
-        "resim": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",
         "tip": "kanal"
     },
     {
@@ -234,423 +210,291 @@
         "tip": "kanal"
     },
     {
-        "baslik": "HABER GLOBAL",
-        "link": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
-        "resim": "https://i.ibb.co/4ZpZWkf/haber-global.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "KANAL 3",
         "link": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 12",
         "link": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 15",
         "link": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 23",
         "link": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 26",
         "link": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL 33",
-        "link": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 34",
         "link": "https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 53",
         "link": "https://kanal53.ozelip.com:3448/hybrid/play.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL 58",
         "link": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL 68",
-        "link": "https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL ADA",
         "link": "http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL AVRUPA",
         "link": "https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL B",
-        "link": "https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL Z",
         "link": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL PLUS",
         "link": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL URFA",
-        "link": "https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KANAL FIRAT",
         "link": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KAY TV",
-        "link": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KOCAELİ TV",
-        "link": "https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "KTV KONYA",
         "link": "https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "LİFE TV",
         "link": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "MAVi KARADENiZ TV",
         "link": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "MERCAN TV",
         "link": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "METROPOL TV",
-        "link": "https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "MUGLA TÜRK TV",
-        "link": "https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "OLAY TURK",
         "link": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "SUN TV",
         "link": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TARIM TV",
-        "link": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TEMPO TV",
         "link": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TiVi 6",
         "link": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TON TV",
         "link": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRAKYA TÜRK TV",
-        "link": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TÜRK KLİNİKLERİ TV",
         "link": "http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 25",
-        "link": "https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TV 41",
         "link": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TV 48",
         "link": "https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 52",
-        "link": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TV 264",
         "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV A",
-        "link": "https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "UR FANATiK TV",
         "link": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "VAN GOLU TV",
         "link": "https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "VRT",
-        "link": "https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "VTV TÜRK",
-        "link": "https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "VUSLAT TV",
         "link": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "RIZE TURK HD",
         "link": "https://yayin.rizeturk.com:3777/hybrid/play.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "PAZARCIK TV",
-        "link": "https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "ORDU BEL TV",
         "link": "https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "FiNEST TV",
         "link": "http://media.finest.tv/hls/live.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "DAMAR TV",
         "link": "https://tvsms.club/tv.php?kanal=damar&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "ARABESK TV",
         "link": "https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "SILA TV",
         "link": "https://tvsms.club/tv.php?kanal=silatv&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "ZEYNO TV",
         "link": "https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "DOST TV",
         "link": "https://tvsms.club/tvz.php?kanal=dost&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "EZO TV",
         "link": "https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TOP POP TV",
         "link": "https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "A VİVA TV",
         "link": "https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "ARMA TV",
         "link": "https://tvsms.club/tvz.php?kanal=arma&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "GENC SMS TV",
         "link": "https://tvsms.club/tv.php?kanal=genctv&file=.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TRT WORLD",
         "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TRT KURDi",
         "link": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "TRT ARABi",
         "link": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "SAGLIK CHANEL",
         "link": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "5 OCAK TV",
-        "link": "https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ALANYA ATV",
-        "link": "https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "HÜR TV",
         "link": "https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BELEMTÜRK",
-        "link": "https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
         "baslik": "BRÜKSEL TÜRK",
         "link": "https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ÖNDE TV",
-        "link": "https://ondetv.ozelip.com.tr:3390/hybrid/play.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ANADOLUM TV",
-        "link": "https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
+        "resim": "",
         "tip": "kanal"
     },
     {
@@ -660,33 +504,15 @@
         "tip": "kanal"
     },
     {
-        "baslik": "KANAL D",
-        "link": "http://78.128.125.60:9981/play/a01h/index.m3u8",
-        "resim": "https://i.ibb.co/hf2mSz5/kanal-d.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "ATV",
         "link": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
         "resim": "https://i.ibb.co/DwFJ0vn/atv.png",
         "tip": "kanal"
     },
     {
-        "baslik": "STAR TV",
-        "link": "http://95.174.71.114/TR-STAR/index.m3u8",
-        "resim": "https://i.ibb.co/hY3Z8zx/star-tv.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "SHOW TV",
         "link": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8",
         "resim": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "NOW",
-        "link": "http://66.160.192.241:80/foxturk/playlist.m3u8",
-        "resim": "https://seekvectorlogo.com/wp-content/uploads/2021/12/now-tv-vector-logo-small-2021.png",
         "tip": "kanal"
     },
     {
@@ -708,33 +534,15 @@
         "tip": "kanal"
     },
     {
-        "baslik": "TEVE 2",
-        "link": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
-        "resim": "https://i.ibb.co/JRpJc2P/teve2.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "360 TV",
         "link": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
         "resim": "https://i.ibb.co/s3gJCGL/360.png",
         "tip": "kanal"
     },
     {
-        "baslik": "NTV",
-        "link": "https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8",
-        "resim": "https://i.ibb.co/gRR1zpm/ntv.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "HABER TURK",
         "link": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8",
         "resim": "https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "CNN TURK",
-        "link": "http://78.128.125.60:9981/play/a01f/index.m3u8",
-        "resim": "https://i.ibb.co/bFsmkwJ/cnn-turk.png",
         "tip": "kanal"
     },
     {
@@ -750,21 +558,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "TV NET",
-        "link": "https://trn03.tulix.tv/gt-tvnet/index.m3u8",
-        "resim": "https://wa-piri-tvnet-v2.azurewebsites.net/dist/img/index-image.jpg",
-        "tip": "kanal"
-    },
-    {
         "baslik": "TGRT HABER",
         "link": "https://canli.tgrthaber.com/tgrt.m3u8",
         "resim": "https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT 4K",
-        "link": "http://176.65.146.123:6001/play/a027/index.m3u8",
-        "resim": "https://icdn.ensonhaber.com/crop/1060x795/resimler/diger/kok/2021/06/16/IMG20210616050051.jpg",
         "tip": "kanal"
     },
     {
@@ -798,30 +594,6 @@
         "tip": "kanal"
     },
     {
-        "baslik": "TRT BELGESEL",
-        "link": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678",
-        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "DMAX",
-        "link": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
-        "resim": "https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TLC",
-        "link": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
-        "resim": "https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT SPOR",
-        "link": "http://176.65.146.123:6001/play/a01k/index.m3u8",
-        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu1KowYW0Ywy_-lMPzCvLGBMUaNIUAUIcwGGX1iLjHzhRclixpxWjf4lLG9QeYDPg754&usqp=CAU",
-        "tip": "kanal"
-    },
-    {
         "baslik": "TV 8.5",
         "link": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8",
         "resim": "https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",
@@ -846,57 +618,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "STAR TV",
-        "link": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
-        "resim": "https://i.ibb.co/hY3Z8zx/star-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TV",
-        "link": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
-        "resim": "https://i.ibb.co/Rv0rWhZ/show.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "NOW",
-        "link": "https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/QvTPfhs/now.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "CNBC-E",
-        "link": "https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8",
-        "resim": "https://i.ibb.co/5FjLh2Z/cnbc-e.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 8",
-        "link": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
-        "resim": "https://i.ibb.co/Kr5SFY1/tv8.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "EURO D",
         "link": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8",
         "resim": "https://i.ibb.co/jMQTJmh/euro-d.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ATV AVRUPA",
-        "link": "https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/Mg8kV1j/atv-avrupa.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "EUROSTAR",
-        "link": "https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8",
-        "resim": "https://i.ibb.co/CbdPSX6/euro-star.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 8 INT",
-        "link": "https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/ykSLX8Q/tv8-int.png",
         "tip": "kanal"
     },
     {
@@ -942,12 +666,6 @@
         "tip": "kanal"
     },
     {
-        "baslik": "A2",
-        "link": "https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/7WTsG83/a2.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "360",
         "link": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
         "resim": "https://i.ibb.co/s3gJCGL/360.png",
@@ -960,39 +678,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "WOMAN TV",
-        "link": "https://s01.webcaster.cloud/wmtv/live_1080p.m3u8",
-        "resim": "https://i.ibb.co/bHTjDyk/woman-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TGRT EU",
-        "link": "https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/kMM9hwR/tgrt-eu.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "TIVI 6",
         "link": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
         "resim": "https://i.ibb.co/9H3DMWz/tivi6.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BIR TV",
-        "link": "https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8",
-        "resim": "https://i.ibb.co/dDdPMWq/birtv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "CINE5 TV",
-        "link": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8",
-        "resim": "https://i.ibb.co/7vNbSyP/cine5.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "CINE1",
-        "link": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
-        "resim": "https://i.ibb.co/zhxTBMR/cine1.png",
         "tip": "kanal"
     },
     {
@@ -1008,24 +696,6 @@
         "tip": "kanal"
     },
     {
-        "baslik": "beIN SPORTS HABER",
-        "link": "https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/GdkQ5mY/bein-sports-haber.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 8.5",
-        "link": "https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8",
-        "resim": "https://i.ibb.co/6PRYHdW/tv85.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A SPOR",
-        "link": "https://c.fulltvizle.com/aspor/index.m3u8",
-        "resim": "https://i.ibb.co/rwnrgFV/a-spor.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "TRT SPOR YILDIZ",
         "link": "https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8",
         "resim": "https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png",
@@ -1035,12 +705,6 @@
         "baslik": "FB TV",
         "link": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
         "resim": "https://i.ibb.co/315SYpK/fb-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "GS TV HD",
-        "link": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8",
-        "resim": "https://i.ibb.co/6RqMpGT/gs-tv.png",
         "tip": "kanal"
     },
     {
@@ -1062,27 +726,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "DMAX",
-        "link": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
-        "resim": "https://i.ibb.co/1LH22gK/dmax.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TLC",
-        "link": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
-        "resim": "https://i.ibb.co/Cm1nYZK/tlc.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "TRT AVAZ",
         "link": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
         "resim": "https://i.ibb.co/Mnhmxsn/trt-avaz.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TGRT BELGESEL",
-        "link": "http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678",
-        "resim": "https://i.ibb.co/DkBWyDB/tgrt-belgesel.png",
         "tip": "kanal"
     },
     {
@@ -1092,63 +738,15 @@
         "tip": "kanal"
     },
     {
-        "baslik": "CNN TURK",
-        "link": "https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8",
-        "resim": "https://i.ibb.co/bFsmkwJ/cnn-turk.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "NTV",
         "link": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8",
         "resim": "https://i.ibb.co/gRR1zpm/ntv.png",
         "tip": "kanal"
     },
     {
-        "baslik": "A HABER",
-        "link": "https://c.fulltvizle.com/ahaber/index.m3u8",
-        "resim": "https://i.ibb.co/Hhjcgm3/a-haber.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A PARA HD",
-        "link": "http://185.234.111.229:8000/play/a01l",
-        "resim": "https://i.ibb.co/FnT7ftQ/a-para.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "HALK TV",
         "link": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609",
         "resim": "https://i.ibb.co/DYhmg6k/halk-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HABER GLOBAL",
-        "link": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8",
-        "resim": "https://i.ibb.co/4ZpZWkf/haber-global.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BLOOMBERG HT",
-        "link": "https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8",
-        "resim": "https://i.ibb.co/PTNvZkD/bloomberg-ht.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HABERTURK",
-        "link": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
-        "resim": "https://i.ibb.co/5GmcTH9/haberturk.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "24",
-        "link": "https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8",
-        "resim": "https://i.ibb.co/tHQpWvn/24.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ULUSAL TV",
-        "link": "https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8",
-        "resim": "https://i.ibb.co/vvZss13/ulusal-tv.png",
         "tip": "kanal"
     },
     {
@@ -1164,21 +762,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "EKOTURK",
-        "link": "https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8",
-        "resim": "https://i.ibb.co/F4csSTY/ekoturk.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "AKIT TV",
         "link": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
         "resim": "https://i.ibb.co/MBwzD2b/akit-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BENGU TURK",
-        "link": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
-        "resim": "https://i.ibb.co/CHWhMvQ/bengu-turk.png",
         "tip": "kanal"
     },
     {
@@ -1188,39 +774,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "TURKHABER",
-        "link": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
-        "resim": "https://i.ibb.co/ySv65wg/turk-haber.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "FLASH HABER",
-        "link": "https://ythls.kekikakademi.org/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8",
-        "resim": "https://i.ibb.co/8cP5NzX/flash-haber.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "NR1",
         "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8",
         "resim": "https://i.ibb.co/sybLTBG/nr1.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "MILYON TV",
-        "link": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
-        "resim": "https://i.ibb.co/sQRhqCs/milyon-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KRAL POP",
-        "link": "http://dygvideo.dygdigital.com/live/hls/kralpop",
-        "resim": "https://i.ibb.co/vk0bKz0/kral-pop.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TATLISES TV",
-        "link": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8",
-        "resim": "https://i.ibb.co/yRy9zwt/tatlises-tv.png",
         "tip": "kanal"
     },
     {
@@ -1278,21 +834,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "132. Iron man 2",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://m.media-amazon.com/images/S/pv-target-images/32f814509611966ca9bab737cea7655793429c9641bb1da1cad3ca7aeab0af40.jpg",
-        "tip": "kanal"
-    },
-    {
         "baslik": "133. Thor",
         "link": "https://s24.pixypost.art/mx/ITuipv4lZQRkYwRjBQOjYxWZIIWuJF5RIHSZd0zxpTy4rKOip3DhLKW0s0xi24vr1",
         "resim": "https://eloutput.com/wp-content/uploads/2022/01/todo-sobre-thor.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "134. Ilk Yenilmez",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://i.ytimg.com/vi/1LPaK63iGlo/maxresdefault.jpg",
         "tip": "kanal"
     },
     {
@@ -1326,33 +870,15 @@
         "tip": "kanal"
     },
     {
-        "baslik": "140. Avengers 2",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/61/90/98/57/07/44/69/19/58/ca618471-04c3-45dc-956d-adfe9e7cb10f/kaltura/desc_0bb28014aefcef6907153e375f95d4d6/vHOmnVGHECXw/vw=1280,vh=536,fps=24.00,vbrt=1153873,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width1200&aspectRatio1.78&formatwebp",
-        "tip": "kanal"
-    },
-    {
         "baslik": "141. Karinca Adam",
         "link": "https://s2.imageshub.pro/m0/DJ50YH1uov4lZQR1YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2ImnUIvYaOlojs0xi2vr1",
         "resim": "https://de.web.img2.acsta.net/pictures/15/07/20/18/06/476503.jpg",
         "tip": "kanal"
     },
     {
-        "baslik": "142. Civil War",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRooI9bxpF31rMkoqdgVOYf_0IpGvevVFirmpgaNRgAJhiYKI7NWdx8-LRb&s=10",
-        "tip": "kanal"
-    },
-    {
         "baslik": "143. Doctor Strange",
         "link": "https://s26.imglink.pro/ml/ET9eqT9lYyA0pzShM2HhZGN4ZUNhESIOGNd0zxnJ1aoTyhnl5jpz8s0xi26vr1",
         "resim": "https://de.web.img2.acsta.net/pictures/16/10/18/11/39/193242.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "144. Galaksinin Koruyuculari 2",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://image.kanald.com.tr/i/kanald/100/0x0/5fa041374453952bc0161d9b.jpg",
         "tip": "kanal"
     },
     {
@@ -1380,21 +906,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "149. karinca Adam 2",
-        "link": "https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/FP7MRNSghTPMZdhPqth/ZX",
-        "resim": "https://images.justwatch.com/poster/264494138/s332/karinca-adam-ve-yaban-arisi",
-        "tip": "kanal"
-    },
-    {
         "baslik": "150. Captain Marvel",
         "link": "https://s9.pixypost.art/mc/F2SjqTShYx1OHyMSGP4kZQtjpP5RIHSZd0zxpTy4rKOip3DhLKW0s0xi9vr1",
         "resim": "https://images.justwatch.com/poster/96283315/s718/kaptan-marvel.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "151. Avengers 4",
-        "link": "https://vecnaxplays6.click/cdn/down/a9816456b3c44e553068d081d5982969/720p/720p14.html",
-        "resim": "https://panel.1kfilm.com/assets/img/filmsimg/avengers-endgame-yenilmezler-son-oyun.png",
         "tip": "kanal"
     },
     {
@@ -1524,12 +1038,6 @@
         "tip": "kanal"
     },
     {
-        "baslik": "175. Hizli ve Ofkeli 8",
-        "link": "https://hdplayersystem.live/cdn/hls/0e6046508894e73f284665efa62e347f/master.txt",
-        "resim": "https://image.kanald.com.tr/i/kanald/100/0x0/612cba43ebc8302ed043479d.jpg",
-        "tip": "kanal"
-    },
-    {
         "baslik": "176. Hizli ve Ofkeli 9",
         "link": "https://s9.imagehub.pics/mg/EwxhZwNlZF5PoUIlLKxhZGN4ZUNhESIOGNd0zxnJ1uM2IbqJVhpTywpjs0xi9vr1",
         "resim": "https://images.justwatch.com/poster/264337564/s718/hizli-ve-ofkeli-9.jpg",
@@ -1542,52 +1050,16 @@
         "tip": "kanal"
     },
     {
-        "baslik": "178. Harry Potter",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/48/88/60/47/99/32/84/47/19/9/1d77e788-dddb-4585-861f-f13637a225bc/kaltura/desc_632e960777b6e5fe72f21db7dc66019c/vkXobfS4Q0FE/vw=1280,vh=534,fps=24.00,vbrt=1057640,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://static.posters.cz/image/1300/poster/harry-potter-der-stein-der-weisen-i104639.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "179. Harry Potter 2",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/43/39/86/92/16/29/45/98/73/b3ebbf1b-0440-4f5a-ab4f-1665758c2c92/kaltura/desc_86665736235ae6f9572af03ff8ab37ce/vbsc2-Du6BWE/vw=1280,vh=534,fps=24.00,vbrt=986752,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://m.media-amazon.com/images/S/pv-target-images/fff72385d087e1d4bbcbc45052fbafcd69fa2b4cc92dad9eb4d5297d06e0c0af._SX780_.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "180. Harry Potter 3",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/30/27/22/51/47/13/14/43/59/8/93881b7a-359c-40a2-ae0f-5a1160603917/kaltura/desc_6f31f1be4ef33899a279caf44b013453/vsY5Ad0y7aFU/vw=1280,vh=534,fps=24.00,vbrt=1364999,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://play-lh.googleusercontent.com/lBQTnSIfJAsUilF4SJM-YFsfe-xEsXUcnhpQxurGkj4pWZT9jIsHLqa7XPN3tRjLoGOQCF3nx1FD8dGPtl8",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "181. Harry Potter 4",
-        "link": "http://cella1.online:8080/movie/Altgkrtls/4zU3GbWRPb/29669.mp4",
-        "resim": "https://cdn.culture.ru/images/a3e4e9f4-5fbd-5269-8495-4e5103cd2c15",
-        "tip": "film"
-    },
-    {
         "baslik": "182. Harry Potter 5",
         "link": "https://s24.imageshub.pro/mc/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1",
         "resim": "https://images.justwatch.com/poster/264875049/s718/harry-potter-ve-zumruduanka-yoldasligi.jpg",
         "tip": "kanal"
     },
     {
-        "baslik": "183. Harry Potter 6",
-        "link": "https://b3.5dk.org/storage/media/94111387974b0eb3ea0a155999885a36-720.mp4/gomindex.m3u8",
-        "resim": "https://www.justwatch.com/images/poster/264900088/s718/harry-potter-ve-melez-prens.jpg",
-        "tip": "film"
-    },
-    {
         "baslik": "184. Harry Potter 7",
         "link": "https://s26.imgmania.org/mc/FTSlpaxhHT90qTIlYwphZwNkZP5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1aoJShnJRho3Was0xi26vr1",
         "resim": "https://www.justwatch.com/images/poster/264900069/s718/harry-potter-ve-olum-yadigarlari-bolum-1.jpg",
         "tip": "kanal"
-    },
-    {
-        "baslik": "185. Harry Potter 8",
-        "link": "http://cella1.online:8080/movie/Altgkrtls/4zU3GbWRPb/29673.mp4",
-        "resim": "https://image.kanald.com.tr/i/kanald/100/0x0/5f526e5e933ccb22709ecf9d.jpg",
-        "tip": "film"
     },
     {
         "baslik": "192. Jumanji  1",
@@ -1611,12 +1083,6 @@
         "baslik": "195. Venom",
         "link": "https://vidrame.pro/vr/get/2e79093d/1080.txt",
         "resim": "https://www.hdfilmcehennemi.nl/images/list/poster/4-venom-hd-film-izle.webp",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "196. Venom 2",
-        "link": "https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/88/97/71/86/41/14/60/88/70/0/635ed5f4-90f8-4b55-826a-f9e8c9501550/kaltura/desc_543d4db3386be985a9b248bfa0433181/v7FpL-2u8JBM/vw=1280,vh=692,fps=24.00,vbrt=905575,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",
-        "resim": "https://www.hdfilmcehennemi.nl/images/list/poster/venom-let-there-be-carnage.webp",
         "tip": "kanal"
     },
     {
@@ -1746,21 +1212,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "220. Srek 3",
-        "link": "https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/26/18/28/14/14/41/69/12/2/0d12414a-16cb-4cf3-a03e-26711b7e78c5/kaltura/desc_58fb9f72995649d0326be30bb5a72389/vNoyCyjofzCo/vw=1920,vh=1080,fps=24.00,vbrt=2077939,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
-        "resim": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_FMjpg_UX1000_.jpg",
-        "tip": "kanal"
-    },
-    {
         "baslik": "221. Srek 4",
         "link": "https://vidrame.pro/vr/get/cc6feded/1080.txt",
         "resim": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_FMjpg_UX1000_.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Ejderhani Nasil Egitirsin 1",
-        "link": "https://25.hot-video.dzeninfra.ru/vod/converted-video/vod-content/19/70/80/43/23/33/57/78/16/2/065959de-a32e-4a42-9dc8-ccd634aed146/kaltura/desc_a5ece8866a751653e17ce336da275889/vSD7g97_K_XA/vw=1920,vh=816,fps=24.00,vbrt=2271219,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8",
-        "resim": "https://www.tekfullfilmizle5.com/wp-content/uploads/ejderhani-nasil-egitirsin-1-125x160.jpg.webp",
         "tip": "kanal"
     },
     {
@@ -1768,30 +1222,6 @@
         "link": "https://s3.imagebin.pics/mm/FT93YaEiYyElLJyhYyyiqKVhEUWuM29hYwZhZwNkBF4kZQtjYzE1LJjd0zxnJ1uM2IvnJ4hpTywpjs0xi3vr1",
         "resim": "https://www.hdfilmizle.to/v/11809/poster/watch/ejderhani-nasil-egitirsin-3-gizli-dunya.webp",
         "tip": "kanal"
-    },
-    {
-        "baslik": "Kral Şakir: Devler Uyandı",
-        "link": "http://spectreu.com:8080/movie/Ramadanbey/VDsSXgkdCo/508146.mkv",
-        "resim": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHEEILa0Ee3PMkZ6jF547O1vR69.jpg",
-        "tip": "film"
-    },
-    {
-        "baslik": "Mavka: Ormanın Şarkısı",
-        "link": "http://spectreu.com:8080/movie/Ramadanbey/VDsSXgkdCo/508053.mkv",
-        "resim": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeJjd9JU2Mdj9d7nWRFLWlrcExi.jpg",
-        "tip": "film"
-    },
-    {
-        "baslik": "Mucize: Uğur Böceği ile Kara Kedi",
-        "link": "http://spectreu.com:8080/movie/Ramadanbey/VDsSXgkdCo/487027.mkv",
-        "resim": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
-        "tip": "film"
-    },
-    {
-        "baslik": "Büyülü Kahramanlar: Büyük Macera",
-        "link": "http://spectreu.com:8080/movie/Ramadanbey/VDsSXgkdCo/476217.mkv",
-        "resim": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEJk5L1FHdWSyw7JBAtvslvwPnA.jpg",
-        "tip": "film"
     },
     {
         "baslik": "TRT 1 HD",
@@ -1824,171 +1254,15 @@
         "tip": "kanal"
     },
     {
-        "baslik": "Sinema TV",
-        "link": "http://65.108.239.207/sinema/index.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema TV 2",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema2/index.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinema2_logo_C0C84D85-E6DD-4807-B52F-277AD04EAE22.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Yerli",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49303.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli_logo_75EF9BC4-3582-455A-BB02-47FAFD00CEA0.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Yerli 2",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49293.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemayerli2_logo_6C526B31-1CD4-4F36-B514-FDB85BF311F5.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Aile",
-        "link": "http://65.108.239.207/sinemaaile/index.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile_logo_B2AC3808-8447-4546-80EF-EA50B34D6089.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Aile 2",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49302.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaile2_logo_AD8E0B38-BE08-48CD-ACF5-28DB2419266C.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Komedi",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemakomedi/index.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi_logo_16AD0158-3FF7-4897-93A7-26577BC1EC33.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Komedi 2",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49306.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemakomedi2_logo_D70C1FCF-C2FF-4A95-980E-1454B5728647.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Aksiyon",
-        "link": "http://65.108.239.207/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon_logo_ECCA8162-A617-4236-82AD-BE14CFBE4C8D.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema Aksiyon 2",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemaaksiyon2/index.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinemaaksiyon2_logo_1E3AE25E-8ED5-4388-BF6E-6A902F87DF27.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema 1001",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema1001/index.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1001_logo_CA7B6954-4A94-455B-9A1F-5FC54D88B982.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Sinema 1002",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://goldvod.org/live/hpgdisco/123456/175.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Moviesmart Türk HD",
-        "link": "https://ds.ayakkabiparti.lol/mvturk/index.m3u8",
-        "resim": "https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Film Screen HD",
-        "link": "https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8",
-        "resim": "https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii TV HD",
-        "link": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8",
-        "resim": "https://tvplus.com.tr/_next/image?url=https%3A%2F%2Fgbzottvsc20.tvplus.com.tr%3A33207%2FCPS%2Fimages%2Funiversal%2Ffilm%2Flogo%2F202506%2F20250623%2F94%2F1009257324535eb9542c_op_0_XL.webp&w=128&q=75",
-        "tip": "kanal"
-    },
-    {
         "baslik": "FX TV HD",
         "link": "https://saran-live.ercdn.net/fx/index.m3u8",
         "resim": "https://dsmart-static-v2.ercdn.net//resize-width/400//content/w/Uq/16203/Thumbnail.png?v=637080272246525439",
         "tip": "kanal"
     },
     {
-        "baslik": "Bein Sports Test",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://cdn-8878.varplaycdn.cfd/601/index.m3u8",
-        "resim": "https://upload.wikimedia.org/wikipedia/tr/thumb/8/8b/Arzu_film_logo.jpg/250px-Arzu_film_logo.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Bein Sports 1 HD",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://biraz.7486038.xyz/checklist/androstreamlivebiraz1.m3u8",
-        "resim": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Bein Sports 1 HD yedek",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8",
-        "resim": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Bein Sports 2 HD",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8",
-        "resim": "https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
         "baslik": "Maçkolik TV",
         "link": "https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8",
         "resim": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXBHGz5C0zLbrSyYyx-hHVzjcuOIXVocrhQXADivzPqqFiL-7Bo6LAiY&s=10",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor",
-        "link": "https://ds.ayakkabiparti.lol/tabi/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabiispr.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor 1",
-        "link": "https://ds.ayakkabiparti.lol/tabi1/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabii1.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor 2",
-        "link": "https://ds.ayakkabiparti.lol/tabi2/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabii2.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor 3",
-        "link": "https://ds.ayakkabiparti.lol/tabi3/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabii3.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor 4",
-        "link": "https://ds.ayakkabiparti.lol/tabi4/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabii4.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor 5",
-        "link": "https://ds.ayakkabiparti.lol/tabi5/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabii5.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tabii Spor 6",
-        "link": "https://ds.ayakkabiparti.lol/tabi6/index.m3u8",
-        "resim": "https://androbjk34.serv00.net/png/tabii6.png",
         "tip": "kanal"
     },
     {
@@ -2010,783 +1284,9 @@
         "tip": "kanal"
     },
     {
-        "baslik": "BBC EARTH HD",
-        "link": "https://ds.ayakkabiparti.lol/bbc/index.m3u8",
-        "resim": "https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tarih TV HD",
-        "link": "https://ds.ayakkabiparti.lol/tarihtv/index.m3u8",
-        "resim": "https://dsmart-static-v2.ercdn.net//resize-width/400//content/1/Fd/58626/Thumbnail.png?v=638288263696795101",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HISTORY HD",
-        "link": "https://ds.ayakkabiparti.lol/history/index.m3u8",
-        "resim": "https://dsmart-static-v2.ercdn.net//resize-width/400//content/y/Ey/37198/Thumbnail.png?v=637554127141657600",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Love Nature HD",
-        "link": "http://95.67.12.82:9098/",
-        "resim": "https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635",
-        "tip": "kanal"
-    },
-    {
         "baslik": "DISNEY JR.",
         "link": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
         "resim": "https://cdn.ssportplus.com/35/3165/pTdVMnEb5953/pTdVMnEb5953.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Davinci Learning",
-        "link": "https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8",
-        "resim": "https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT 1 HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/1.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_D9T.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL D FHD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/5.m3u8",
-        "resim": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL D HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/262.m3u8",
-        "resim": "https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ATV FHD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/263.m3u8",
-        "resim": "https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ATV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/2.m3u8",
-        "resim": "https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "STAR TV FHD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/151.m3u8",
-        "resim": "https://hizlitv.org/kanallar/star-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "STAR TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/264.m3u8",
-        "resim": "https://hizlitv.org/kanallar/star-tv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "NOW TV FHD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/265.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "NOW TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/3.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TV FHD (O)",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/478.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TV 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/521.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TV FHD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/266.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/6.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TÜRK",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/9516.m3u8",
-        "resim": "https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SHOW TÜRK AVRUPA",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/9517.m3u8",
-        "resim": "https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV8 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/9525.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_Hkc.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 8 FHD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/267.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_Hkc.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 8 HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/15.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_Hkc.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 8 INT HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/268.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "5 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/9526.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "5 HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/20.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT HABER HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/279.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_haber_BOU.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT Haber",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/104.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_haber_BOU.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "4K TR: CNN TÜRK HD |D",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/501.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/cnn_turk_qZd.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "CNN Turk",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/109.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/cnn_turk_qZd.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "4K TR: HABERTÜRK HD |D",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/510.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_turk_sU6.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HABER TURK HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/280.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_turk_sU6.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HABER TURK",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/105.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_turk_sU6.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "4K TR: A HABER HD |D",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/490.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_YQx.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A HABER HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/281.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_YQx.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A Haber",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/116.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_YQx.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "NTV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/282.m3u8",
-        "resim": "https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "NTV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/125.m3u8",
-        "resim": "https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Akit TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/119.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/akit_tv_aqU.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Ulusal Kanal",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/114.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/ulusal_Mja.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ÜLKE TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/284.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_vsd.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "ULKE TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/117.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_vsd.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HALK TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/285.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/halk_tv_5IU.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HALK TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/106.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/halk_tv_5IU.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 100 HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/286.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv100_FRE.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV 100",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/110.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv100_FRE.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Flash Haber",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/115.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/flash_haber_L5U.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN Sport SD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/178.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORT 1 480P",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/345.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN Sport 1 720P (O)",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/180.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 720P (V)",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/141.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 FEED (V)",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/142.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 8K FEED",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/150.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 720P FEED",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/149.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "DİYANET TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/298.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_diyanet_enZ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "DİYANET TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/184.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_diyanet_enZ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SEMERKAND TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/299.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/semerkand_tv_Kjy.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SEMERKAND TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/185.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/semerkand_tv_Kjy.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "LALEGUL TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/300.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/lalegul_gcW.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "LALEGUL TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/186.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/lalegul_gcW.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "VAV TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/187.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/vav_tv_czb.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "DOST TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/301.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/dost_tv_rsq.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Tele 1",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/107.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tele1_tRP.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "4K TR: BLOOMBERG HT HD |D",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/498.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/bloomberg_ht_21c.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TGRT Haber",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/111.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tgrt_haber_AuN.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SÖZCÜ TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/287.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/sozcu_tv_KPX.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "SÖZCÜ TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/108.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/sozcu_tv_KPX.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "24 TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/112.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/24_tv_fxJ.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HABER GLOBAL HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/288.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_global_eId.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "HABER GLOBAL",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/113.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_global_eId.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A Para",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/131.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/a_para_7gG.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Bloomberg HT",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/129.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/bloomberg_ht_21c.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "EKOTURK TB",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/289.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/ekoturk_MgG.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "EKOTURK TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/130.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/ekoturk_MgG.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TVNET HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/290.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tvnet_uFd.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TVNET",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/118.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tvnet_uFd.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BEYAZ TV 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/497.m3u8",
-        "resim": "https://m.beyaztv.com.tr/images/logo.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Beyaz TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/4.m3u8",
-        "resim": "https://www.beyaztv.com.tr/images/logo.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KANAL 7 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/512.m3u8",
-        "resim": "https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo.svg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Kanal 7 Avrupa",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/7.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_BCa.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Euro D",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/14.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/euro_d_Wgf.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "EuroStar",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/16.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/euro_star_uyanik_76p.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A2 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/492.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/a2_tv_e5s.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "A2 TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/21.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/a2_tv_e5s.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TEVE2 4K",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/9519.m3u8",
-        "resim": "https://static.teve2.com.tr/assets/img/teve2logo.png?v=1",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Teve2",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/19.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/teve2_jdi.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT Kurdi",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/41.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_kurdi_jaf.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT Avaz",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/42.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_avaz_uiX.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TRT Turk",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/43.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_turk_4mH.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/148.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 HD TURKEY",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/147.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 H265",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/146.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "beIN SPORTS 1 + D (V)",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/144.m3u8",
-        "resim": "http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "CNBC-E",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/153.m3u8",
-        "resim": "https://cdn-tr.tivimivi.com/images//channels/1724096135976_CNBC-E.jpg",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BENGÜ TÜRK TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/291.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/bengu_turk_zYp.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "BENGÜ TÜRK TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/216.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/bengu_turk_zYp.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "GZT TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/217.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/gzttv.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "GZT HT",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/218.m3u8",
-        "resim": "https://cdn-tr.tivimivi.com/images//channels/1760745834996_images.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KRT TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/292.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/krt_tv_7YR.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KRT TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/220.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/krt_tv_7YR.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "EKOL TV HD",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/293.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/ekol_tv_Fms.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "DOST TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/188.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/dost_tv_rsq.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "TV5",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/189.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/tv_5_QtK.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "Meltem TV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/190.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/meltem.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "KabeTV",
-        "link": "https://goldvod.org/live/hpgdiscoo/123456/191.m3u8",
-        "resim": "https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_PVy.png",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Penthouse Gold HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Penthouse Reality TV HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Babes TV HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: BangU",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Barely Legal",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48996",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Blue Hustler",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Brazzers TV",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Dorcel TV HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Erox HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Eroxxx HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Evil Angel HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Extasy",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Fantazzy TV",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Hustler",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Hustler HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Playboy TV HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Private TV HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Pure Babes",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Reality Kings",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Redlight HD",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: Super One",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: XY plus",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: XY max",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
-        "tip": "kanal"
-    },
-    {
-        "baslik": "XXX: XY mix",
-        "link": "http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017",
-        "resim": "https://via.placeholder.com/200x300?text=Film",
         "tip": "kanal"
     }
 ]
