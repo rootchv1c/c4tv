@@ -6,87 +6,344 @@
     <meta name="referrer" content="no-referrer">
     <title>CANOFLIX | PREMIUM</title>
     <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <style>
-        * { box-sizing: border-box; }
-        body { 
-            background-color: #050505; color: #fff; font-family: 'Inter', sans-serif; 
-            margin: 0; padding: 0; overflow-x: hidden; 
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
-        /* Navbar */
+        body {
+            background-color: #0a0a0a;
+            color: #fff;
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+            line-height: 1.5;
+        }
+
+        /* Modern scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #141414;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #e50914;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #ff3b3b;
+        }
+
+        /* Navbar - glass effect */
         .navbar {
-            position: fixed; top: 0; width: 100%; z-index: 1000;
-            background: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%, transparent 100%);
-            padding: 15px 5%; display: flex; align-items: center; justify-content: space-between;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            background: rgba(10, 10, 10, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid rgba(229, 9, 20, 0.3);
+            padding: 12px 5%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: 0.3s;
         }
-        .logo { color: #e50914; font-size: 24px; font-weight: bold; text-decoration: none; }
+
+        .logo {
+            color: #e50914;
+            font-size: 28px;
+            font-weight: 800;
+            text-decoration: none;
+            letter-spacing: -0.5px;
+            text-shadow: 0 0 15px rgba(229, 9, 20, 0.5);
+            transition: 0.3s;
+        }
+        .logo:hover {
+            text-shadow: 0 0 25px #e50914;
+            transform: scale(1.02);
+        }
+
+        .search-area {
+            position: relative;
+        }
+        .search-area i {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #aaa;
+            font-size: 14px;
+        }
         .search-area input {
-            background: rgba(0,0,0,0.6); border: 1px solid #444; color: #fff;
-            padding: 8px 15px; border-radius: 20px; outline: none; width: 200px;
+            background: rgba(30, 30, 30, 0.8);
+            border: 1px solid #333;
+            color: #fff;
+            padding: 10px 20px 10px 45px;
+            border-radius: 30px;
+            outline: none;
+            width: 250px;
+            font-size: 14px;
+            backdrop-filter: blur(5px);
+            transition: all 0.3s;
+        }
+        .search-area input:focus {
+            border-color: #e50914;
+            width: 300px;
+            background: rgba(20, 20, 20, 0.95);
+            box-shadow: 0 0 15px rgba(229, 9, 20, 0.3);
         }
 
-        /* Kategoriler */
+        /* Kategoriler - pill tasarım */
         .categories {
-            margin-top: 100px; padding: 10px 5%; display: flex; gap: 10px; 
-            overflow-x: auto; scrollbar-width: none;
+            margin-top: 90px;
+            padding: 10px 5%;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            align-items: center;
         }
-        .categories::-webkit-scrollbar { display: none; }
+
         .cat-btn {
-            background: #1a1a1a; padding: 8px 18px; border-radius: 20px; cursor: pointer;
-            font-size: 13px; border: 1px solid #333; color: #fff; transition: 0.3s;
+            background: rgba(30, 30, 30, 0.7);
+            backdrop-filter: blur(4px);
+            padding: 8px 22px;
+            border-radius: 40px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            color: #ddd;
+            transition: 0.25s ease;
+            letter-spacing: 0.3px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
         }
-        .cat-btn:hover, .cat-btn.active { background: #e50914; border-color: #e50914; }
+        .cat-btn i {
+            font-size: 12px;
+            opacity: 0.7;
+        }
+        .cat-btn:hover {
+            background: #e50914;
+            border-color: #e50914;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(229, 9, 20, 0.4);
+        }
+        .cat-btn.active {
+            background: #e50914;
+            color: white;
+            border-color: #e50914;
+            font-weight: 600;
+            box-shadow: 0 0 15px #e50914;
+        }
 
-        /* Movie Grid */
-        .content-section { padding: 20px 5% 50px 5%; }
+        /* Film Grid - modern card */
+        .content-section {
+            padding: 20px 5% 70px 5%;
+        }
+
         .grid {
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            gap: 20px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+            gap: 25px;
         }
+
         .card {
-            background: #111; border-radius: 8px; overflow: hidden; 
-            transition: 0.3s; cursor: pointer; border: 1px solid #222;
+            background: #141414;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: all 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            cursor: pointer;
+            border: 1px solid #252525;
+            position: relative;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
         }
-        .card:hover { transform: scale(1.05); border-color: #e50914; }
-        .card img { width: 100%; height: 220px; object-fit: cover; background: #222; }
-        .card-info { padding: 10px; font-size: 12px; font-weight: bold; text-align: center; }
 
-        /* Oynatıcı Modal (Sihirli Alan) */
+        .card:hover {
+            transform: scale(1.07) translateY(-8px);
+            border-color: #e50914;
+            box-shadow: 0 20px 30px rgba(229, 9, 20, 0.3);
+            z-index: 10;
+        }
+
+        .card::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, transparent 50%);
+            opacity: 0;
+            transition: 0.3s;
+            pointer-events: none;
+        }
+
+        .card:hover::after {
+            opacity: 1;
+        }
+
+        .card img {
+            width: 100%;
+            height: 240px;
+            object-fit: cover;
+            background: #222;
+            transition: 0.4s;
+        }
+
+        .card:hover img {
+            transform: scale(1.05);
+        }
+
+        .card-info {
+            padding: 15px 10px 12px;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: center;
+            background: linear-gradient(to top, #1a1a1a, #141414);
+            position: relative;
+            z-index: 2;
+            border-top: 1px solid #2a2a2a;
+        }
+
+        .card-info span {
+            display: block;
+            font-size: 11px;
+            color: #aaa;
+            margin-top: 4px;
+            font-weight: 400;
+        }
+
+        /* Oynatıcı Modal - sinema efekti */
         #player-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: #000; z-index: 9999; display: none;
-            flex-direction: column; align-items: center; justify-content: center;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.95);
+            z-index: 9999;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(10px);
         }
-        .video-box { width: 100%; height: 100%; position: relative; background: #000; }
-        .close-btn {
-            position: absolute; top: 20px; right: 20px; font-size: 40px;
-            color: #fff; cursor: pointer; z-index: 10001; text-shadow: 0 0 10px #000;
-        }
-        iframe { width: 100%; height: 100%; border: none; }
 
+        .video-box {
+            width: 90%;
+            height: 90%;
+            max-width: 1400px;
+            background: #000;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 30px 50px rgba(229, 9, 20, 0.3);
+            border: 2px solid #e50914;
+            position: relative;
+            animation: modalFadeIn 0.4s;
+        }
+
+        @keyframes modalFadeIn {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 25px;
+            right: 35px;
+            font-size: 50px;
+            color: white;
+            cursor: pointer;
+            z-index: 10001;
+            text-shadow: 0 0 20px #e50914;
+            transition: 0.3s;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(0,0,0,0.6);
+            border-radius: 50%;
+            backdrop-filter: blur(5px);
+            border: 1px solid #e50914;
+            line-height: 1;
+        }
+        .close-btn:hover {
+            transform: rotate(90deg) scale(1.1);
+            background: #e50914;
+            color: #000;
+        }
+
+        iframe, video {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        /* Yükleniyor animasyonu */
+        .loading-skeleton {
+            text-align: center;
+            padding: 50px;
+            color: #e50914;
+            font-size: 20px;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { opacity: 0.4; }
+            50% { opacity: 1; }
+            100% { opacity: 0.4; }
+        }
+
+        /* Responsive */
         @media (max-width: 600px) {
-            .grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
-            .search-area input { width: 120px; }
+            .navbar {
+                padding: 10px 4%;
+            }
+            .logo { font-size: 22px; }
+            .search-area input {
+                width: 160px;
+                padding-left: 35px;
+            }
+            .search-area input:focus { width: 200px; }
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 15px;
+            }
+            .card img { height: 200px; }
+            .categories { margin-top: 80px; }
+            .cat-btn { padding: 6px 16px; font-size: 12px; }
+            .close-btn { top: 15px; right: 15px; font-size: 36px; }
         }
     </style>
 </head>
 <body>
 
 <nav class="navbar">
-    <a href="#" class="logo">CANOFLIX</a>
+    <a href="#" class="logo"><i class="fas fa-play" style="margin-right: 5px;"></i>CANOFLIX</a>
     <div class="search-area">
-        <input type="text" id="searchInput" placeholder="Ara..." onkeyup="search()">
+        <i class="fas fa-search"></i>
+        <input type="text" id="searchInput" placeholder="Film ara...">
     </div>
 </nav>
 
 <div class="categories" id="catList">
-    <button class="cat-btn active" onclick="filterCat('Tümü', this)">Tümü</button>
+    <button class="cat-btn active" onclick="filterCat('Tümü', this)">
+        <i class="fas fa-film"></i> Tümü
+    </button>
 </div>
 
 <div class="content-section">
     <div class="grid" id="movieGrid">
-        <p style="padding: 20px;">Yükleniyor kanka, bekle...</p>
+        <div class="loading-skeleton">
+            <i class="fas fa-spinner fa-pulse"></i> Yükleniyor kanka, bekle...
+        </div>
     </div>
 </div>
 
@@ -105,20 +362,30 @@
         try {
             const res = await fetch('filmler.json');
             allMovies = await res.json();
+            
+            // Kategori listesini oluştur
             setupCategories();
+            
+            // Filmleri göster
             renderGrid(allMovies);
         } catch (e) {
-            document.getElementById('movieGrid').innerHTML = "Kanka filmler.json bulunamadı!";
+            document.getElementById('movieGrid').innerHTML = `
+                <div style="grid-column:1/-1; text-align:center; padding:50px; color:#e50914;">
+                    <i class="fas fa-exclamation-triangle" style="font-size:40px;"></i>
+                    <p>Kanka filmler.json bulunamadı! Dosyayı kontrol et.</p>
+                </div>
+            `;
         }
     }
 
     function setupCategories() {
         const cats = [...new Set(allMovies.map(m => m.kategori || "Genel"))];
         const container = document.getElementById('catList');
+        
         cats.forEach(c => {
             const b = document.createElement('button');
             b.className = 'cat-btn';
-            b.innerText = c;
+            b.innerHTML = `<i class="fas fa-tag"></i> ${c}`;
             b.onclick = (e) => filterCat(c, b);
             container.appendChild(b);
         });
@@ -128,14 +395,22 @@
         const grid = document.getElementById('movieGrid');
         grid.innerHTML = '';
         
+        if (data.length === 0) {
+            grid.innerHTML = '<div style="grid-column:1/-1; text-align:center; padding:50px;">😕 Film bulunamadı</div>';
+            return;
+        }
+
         // İlk 200 tanesi (Performans için)
         data.slice(0, 200).forEach(m => {
             const div = document.createElement('div');
             div.className = 'card';
             div.onclick = () => playMedia(m.link);
             div.innerHTML = `
-                <img src="${m.resim}" loading="lazy" onerror="this.src='https://via.placeholder.com/200x300?text=CanoFlix'">
-                <div class="card-info">${m.baslik}</div>
+                <img src="${m.resim}" loading="lazy" onerror="this.src='https://via.placeholder.com/300x450?text=CANOFLIX'">
+                <div class="card-info">
+                    ${m.baslik}
+                    <span>${m.kategori || 'Film'}</span>
+                </div>
             `;
             grid.appendChild(div);
         });
@@ -146,11 +421,11 @@
         const container = document.getElementById('playerContainer');
         overlay.style.display = 'flex';
         
-        // EĞER LİNK BİR WEB SİTESİ İSE (Vidmody vb.)
+        // Eğer link bir web sitesi ise (Vidmody, embed vs.)
         if (url.includes('vidmody.com') || url.includes('vs/') || url.includes('embed') || !url.includes('.m3u8')) {
-            container.innerHTML = `<iframe src="${url}" allowfullscreen allow="autoplay"></iframe>`;
+            container.innerHTML = `<iframe src="${url}" allowfullscreen allow="autoplay" allow="fullscreen"></iframe>`;
         } 
-        // EĞER LİNK BİR VİDEO DOSYASI İSE (m3u8)
+        // Eğer link bir video dosyası ise (m3u8)
         else {
             container.innerHTML = `<video id="my-player" class="video-js vjs-big-play-centered vjs-fill" controls preload="auto"></video>`;
             currentPlayer = videojs('my-player');
@@ -182,6 +457,9 @@
         const results = allMovies.filter(m => m.baslik.toLowerCase().includes(val));
         renderGrid(results);
     }
+
+    // Arama inputu için event listener (onkeyup yerine)
+    document.getElementById('searchInput').addEventListener('keyup', search);
 
     window.onload = loadData;
 </script>
