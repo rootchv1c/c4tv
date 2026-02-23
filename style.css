@@ -1,0 +1,38 @@
+:root { --red: #E50914; --black: #141414; }
+
+body { background: var(--black); color: white; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0; }
+
+/* Navbar */
+.navbar { position: fixed; top: 0; width: 100%; display: flex; justify-content: space-between; align-items: center; padding: 15px 4%; z-index: 1000; transition: background 0.5s; box-sizing: border-box; }
+.nav-black { background: #000; }
+.logo { color: var(--red); font-size: 2rem; font-weight: bold; margin: 0; }
+
+/* Burger Menu */
+.burger-menu { position: relative; margin-left: 20px; }
+.nav-links { list-style: none; display: flex; gap: 20px; margin: 0; padding: 0; }
+.nav-links a { color: #fff; text-decoration: none; font-size: 0.9rem; }
+.nav-links.active { display: block; position: absolute; top: 40px; background: rgba(0,0,0,0.9); padding: 20px; border-radius: 5px; }
+
+/* Hero */
+.hero { height: 75vh; background: linear-gradient(to top, var(--black), transparent), url('https://wallpaperaccess.com/full/1512225.jpg') center/cover; display: flex; align-items: center; padding-left: 4%; position: relative; }
+.hero-title { font-size: 4rem; margin: 0; }
+.hero-desc { font-size: 1.2rem; max-width: 600px; margin: 20px 0; }
+.btn-play { padding: 10px 25px; background: white; color: black; border: none; font-weight: bold; border-radius: 4px; cursor: pointer; }
+
+/* Row & Posters */
+.container { margin-top: -100px; position: relative; z-index: 2; }
+.row { padding-left: 4%; margin-bottom: 40px; }
+.row-title { font-size: 1.5rem; margin-bottom: 10px; }
+.row-posters { display: flex; overflow-x: scroll; scrollbar-width: none; gap: 10px; padding: 10px 0; }
+.row-posters::-webkit-scrollbar { display: none; }
+
+.poster-card { min-width: 180px; transition: transform 0.4s; cursor: pointer; }
+.poster-card:hover { transform: scale(1.1); z-index: 5; }
+.poster-img-wrapper { position: relative; width: 100%; height: 250px; background: #222; border-radius: 5px; overflow: hidden; }
+.poster-img-wrapper img { width: 100%; height: 100%; object-fit: cover; }
+
+.play-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.4); display: flex; justify-content: center; align-items: center; opacity: 0; transition: 0.3s; }
+.poster-card:hover .play-overlay { opacity: 1; }
+.poster-name { font-size: 0.8rem; text-align: center; margin-top: 8px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.avatar { width: 35px; border-radius: 4px; }
