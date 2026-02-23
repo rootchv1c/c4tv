@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CanoFlix - GitHub Edition</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <nav class="navbar" id="navbar">
+        <div class="nav-left">
+            <h1 class="logo">CANOFLIX</h1>
+            <ul class="nav-links">
+                <li><a href="#">Ana Sayfa</a></li>
+                <li><a href="#">Filmler</a></li>
+            </ul>
+        </div>
+        <div class="nav-right">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" class="avatar">
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">GitHub Arşivi</h1>
+            <p class="hero-desc">PHP olmadan, tamamen statik ve hızlı. ÜmitM0d serisi aşağıda dizildi.</p>
+        </div>
+        <div class="hero-fade"></div>
+    </header>
+
+    <main id="main-container" class="container">
+        </main>
+
+    <script>
+        // GitHub'da PHP olmadığı için dosyaları manuel listeliyoruz
+        const jsonDosyalari = [
+            'filmler.json', 
+            'filmler_part2.json',
+            'umitmod_part_1.json', 'umitmod_part_2.json', 'umitmod_part_3.json',
+            'umitmod_part_4.json', 'umitmod_part_5.json', 'umitmod_part_6.json',
+            'umitmod_part_7.json', 'umitmod_part_8.json', 'umitmod_part_9.json'
+        ];
+
+        const container = document.getElementById('main-container');
+
+        async function yukle() {
+            for (const dosya of jsonDosyalari) {
+                try {
+                    const response = await fetch(dosya);
+                    const veriler = await response.json();
+                    
+                    const row = document.createElement('div');
+                    row.className = 'row';
+                    
+                    let html = `<h2 class="row-title">${dosya.replace('.json','').toUpperCase()}</h2>`;
+                    html += `<div class="row-posters">`;
+                    
+                    veriler.slice(0, 40).forEach(film => {
+                        html += `
+                            <div class="poster-card" onclick="izle('${encodeURIComponent(film.link)}', '${encodeURIComponent(film.baslik)}')">
+                                <div class="poster-img-wrapper">
+                                    <img src="https://via.placeholder.com/300x450/000000/FFFFFF?text=${encodeURIComponent(film.baslik)}" alt="poster">
+                                    <div class="play-overlay"><i class="fas fa-play"></i></div>
+                                </div>
+                                <p class="poster-name">${film.baslik}</p>
+                            </div>`;
+                    });
+                    
+                    html += `</div>`;
+                    row.innerHTML = html;
+                    container.appendChild(row);
+                } catch (e) {
+                    console.log(dosya + " bulunamadı, atlanıyor.");
+                }
+            }
+        }
+
+        function izle(url, title) {
+            window.location.href = `izle.html?url=${url}&title=${title}`;
+        }
+
+        yukle();
+    </script>
+</body>
+</html>
